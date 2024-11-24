@@ -9,6 +9,9 @@ class BattleChallenge
   BATTLE_ARENA_ID   = 2
   BATTLE_FACTORY_ID = 3
 
+  BATTLE_FACTORY_RENTALS_SINGLE = 3
+  BATTLE_FACTORY_RENTALS_DOUBLE = 4
+
   def initialize
     @bc = BattleChallengeData.new
     @currentChallenge = -1
@@ -28,8 +31,12 @@ class BattleChallenge
   def register(id, doublebattle, numPokemon, battletype, mode = 1)
     ensureType(id)
     if battletype == BATTLE_FACTORY_ID
-      @bc.setExtraData(BattleFactoryData.new(@bc))
-      numPokemon = 3
+      @bc.setExtraData(BattleFactoryData.new(@bc, doublebattle))
+      if doublebattle
+        numPokemon = BATTLE_FACTORY_RENTALS_DOUBLE
+      else
+        numPokemon = BATTLE_FACTORY_RENTALS_SINGLE
+      end
       battletype = BATTLE_TOWER_ID
     end
     @rules = modeToRules(doublebattle, numPokemon, battletype, mode) if !@rules
@@ -366,8 +373,12 @@ end
 # Battle Factory data
 #===============================================================================
 class BattleFactoryData
-  def initialize(bcdata)
+  BATTLE_FACTORY_RENTALS_SINGLE = 3
+  BATTLE_FACTORY_RENTALS_DOUBLE = 4
+
+  def initialize(bcdata , doublebattle)
     @bcdata = bcdata
+    @doublebattle = doublebattle
   end
 
   def pbPrepareRentals
@@ -382,13 +393,18 @@ class BattleFactoryData
     @opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
     @opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
     opponentPkmn = pbBattleFactoryPokemon(pbBattleChallenge.rules, @bcdata.wins, @bcdata.swaps, @rentals)
-    @opponent.party = opponentPkmn.sample(3)
+
+    if @doublebattle
+      @opponent.party = opponentPkmn.sample(BATTLE_FACTORY_RENTALS_DOUBLE)
+    else
+      @opponent.party = opponentPkmn.sample(BATTLE_FACTORY_RENTALS_SINGLE)
+    end
   end
 
   def pbChooseRentals
     pbFadeOutIn do
-      scene = BattleSwapScene.new
-      screen = BattleSwapScreen.new(scene)
+      scene = BattleSwapScene.new(@doublebattle)
+      screen = BattleSwapScreen.new(scene , @doublebattle)
       @rentals = screen.pbStartRent(@rentals)
       @bcdata.pbAddSwap
       @bcdata.setParty(@rentals)
@@ -408,14 +424,18 @@ class BattleFactoryData
     @opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
     opponentPkmn = pbBattleFactoryPokemon(pbBattleChallenge.rules, @bcdata.wins, @bcdata.swaps,
                                           [].concat(@rentals).concat(@oldopponent))
-    @opponent.party = opponentPkmn.sample(3)
+    if @doublebattle
+      @opponent.party = opponentPkmn.sample(BATTLE_FACTORY_RENTALS_DOUBLE)
+    else
+      @opponent.party = opponentPkmn.sample(BATTLE_FACTORY_RENTALS_SINGLE)
+    end
   end
 
   def pbChooseSwaps
     swapMade = true
     pbFadeOutIn do
       scene = BattleSwapScene.new
-      screen = BattleSwapScreen.new(scene)
+      screen = BattleSwapScreen.new(scene , @doublebattle)
       swapMade = screen.pbStartSwap(@rentals, @oldopponent)
       @bcdata.pbAddSwap if swapMade
       @bcdata.setParty(@rentals)

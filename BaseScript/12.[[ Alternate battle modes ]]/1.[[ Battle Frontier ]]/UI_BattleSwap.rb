@@ -5,6 +5,13 @@ class BattleSwapScene
   RED_TEXT_BASE   = Color.new(232, 32, 16)
   RED_TEXT_SHADOW = Color.new(248, 168, 184)
 
+  BATTLE_FACTORY_RENTALS_SINGLE = 3
+  BATTLE_FACTORY_RENTALS_DOUBLE = 4
+
+  def initialize(doublebattle)
+    @doublebattle = doublebattle
+  end
+
   def pbStartRentScene(rentals)
     @rentals = rentals
     @mode = 0   # rental (pick 3 out of 6 initial Pokémon)
@@ -119,13 +126,27 @@ class BattleSwapScene
   def pbUpdateChoices(choices)
     commands = pbGetCommands(@rentals, choices)
     @choices = choices
-    case choices.length
-    when 0
-      @sprites["help"].text = _INTL("Choose the first Pokémon.")
-    when 1
-      @sprites["help"].text = _INTL("Choose the second Pokémon.")
+
+    if @doublebattle
+      case choices.length
+      when 0
+        @sprites["help"].text = _INTL("Choose the first Pokémon.")
+      when 1
+        @sprites["help"].text = _INTL("Choose the second Pokémon.")
+      else
+        @sprites["help"].text = _INTL("Choose the third Pokémon.")
+      end
     else
-      @sprites["help"].text = _INTL("Choose the third Pokémon.")
+      case choices.length
+      when 0
+        @sprites["help"].text = _INTL("Choose the first Pokémon.")
+      when 1
+        @sprites["help"].text = _INTL("Choose the second Pokémon.")
+      when 2
+        @sprites["help"].text = _INTL("Choose the third Pokémon.")
+      else
+        @sprites["help"].text = _INTL("Choose the fourth Pokémon.")
+      end
     end
     @sprites["list"].commands = commands
   end
@@ -161,13 +182,28 @@ end
 #
 #===============================================================================
 class BattleSwapScreen
-  def initialize(scene)
+  def initialize(scene , doublebattle)
     @scene = scene
+    @doublebattle = doublebattle
   end
+
+  BATTLE_FACTORY_RENTALS_SINGLE = 3
+  BATTLE_FACTORY_RENTALS_DOUBLE = 4
 
   def pbStartRent(rentals)
     @scene.pbStartRentScene(rentals)
     chosen = []
+    num = nil
+    msgComfirm = nil
+
+    if @doublebattle
+      num = BATTLE_FACTORY_RENTALS_DOUBLE
+      msgComfirm = _INTL("Are these fourth Pokémon OK?")
+    else
+      num = BATTLE_FACTORY_RENTALS_SINGLE
+      msgComfirm = _INTL("Are these three Pokémon OK?")
+    end
+
     loop do
       index = @scene.pbChoosePokemon(false)
       commands = []
@@ -189,8 +225,8 @@ class BattleSwapScreen
         else
           chosen.push(index)
           @scene.pbUpdateChoices(chosen.clone)
-          if chosen.length == 3
-            if @scene.pbConfirm(_INTL("Are these three Pokémon OK?"))
+          if chosen.length == num
+            if @scene.pbConfirm(msgComfirm)
               retval = []
               chosen.each { |i| retval.push(rentals[i]) }
               @scene.pbEndScene
