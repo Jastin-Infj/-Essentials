@@ -1,0 +1,128 @@
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Pecharunt appeared!"
+"Go! Pikachu!"
+[Round order] Pikachu (0), the wild Pecharunt (1)
+
+===== Round 1 =====
+
+[AI] Pecharunt (1) is considering using Smog against Pikachu (0)...
+     + 30: function code modifier (against target)
+     -  7: accuracy (predicted 70%)
+     +  2: damaging move (predicted damage 5 = 10% of target's HP)
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Pecharunt (1) is considering using Poison Gas...
+     + 30: function code modifier (against target)
+[AI] Pecharunt (1) is considering using Memento against Pikachu (0)...
+     +  8: lowering the target's Attack by 2
+     +  8: lowering the target's Special Attack by 2
+     + 56: function code modifier (against target)
+[AI] Pecharunt (1) is considering using Astonish against Pikachu (0)...
+     +  2: damaging move (predicted damage 5 = 10% of target's HP)
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Move choices for Pecharunt (1):
+   *  13.6% to use Smog (target 0): score 130
+   *  13.6% to use Poison Gas: score 130
+   *  72.7% to use Memento (target 0): score 156
+   *   0.0% to use Astonish (target 0): score 107
+   *   0.0% to use Astonish (target 0): score 107
+   => will use Memento (target 0)
+
+[Round order] Pikachu (0), the wild Pecharunt (1)
+
+[Use move] Pikachu (0) used Double Team
+"Pikachu used Double Team!"
+[Stat change] Pikachu's evasiveness changed by +1 (0 -> 1)
+"Pikachu's evasiveness rose!"
+[Use move] The wild Pecharunt (1) used Memento
+"The wild Pecharunt used Memento!"
+[HP change] The wild Pecharunt lost 24 HP (24 -> 0)
+"The wild Pecharunt fainted!"
+[Stat change] Pikachu's Attack changed by -2 (0 -> -2)
+"Pikachu's Attack harshly fell!"
+[Stat change] Pikachu's Special Attack changed by -2 (0 -> -2)
+"Pikachu's Special Attack harshly fell!"
+"Pikachu got 75 Exp. Points!"
+"Your other Pokémon also gained Exp. Points!"
+
+===== Player won =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Terapagos appeared!"
+"Go! Pikachu!"
+[Round order] Pikachu (0), the wild Terapagos (1)
+[Ability triggered] The wild Terapagos's Tera Shift
+"The wild Terapagos transformed!"
+[Form changed] The wild Terapagos changed from form 0 to form 1
+
+===== Round 1 =====
+
+[AI] Terapagos (1) is considering using Withdraw...
+     +  5: raising the user's Defense by 1
+     + 16: function code modifier (generic)
+[AI] Terapagos (1) is considering using Tri Attack against Pikachu (0)...
+     + 12: function code modifier (against target)
+     +  4: damaging move (predicted damage 9 = 19% of target's HP)
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Terapagos (1) is considering using Rapid Spin against Pikachu (0)...
+     +  3: damaging move (predicted damage 6 = 12% of target's HP)
+     raising the user's Speed isn't worthwhile
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Move choices for Terapagos (1):
+   *  29.0% to use Withdraw: score 116
+   *  36.2% to use Tri Attack (target 0): score 121
+   *  17.4% to use Rapid Spin (target 0): score 108
+   *  17.4% to use Rapid Spin (target 0): score 108
+   => will use Withdraw
+
+[Round order] Pikachu (0), the wild Terapagos (1)
+
+[Use move] Pikachu (0) used Electro Ball
+"Pikachu used Electro Ball!"
+[Ability triggered] The wild Terapagos's Tera Shell
+"The wild Terapagos made its shell gleam! It's distorting type matchups!"
+[HP change] The wild Terapagos lost 20 HP (24 -> 4)
+"It's not very effective..."
+[Use move] The wild Terapagos (1) used Withdraw
+"The wild Terapagos used Withdraw!"
+[Stat change] The wild Terapagos's Defense changed by +1 (0 -> 1)
+"The wild Terapagos's Defense rose!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Terapagos (1) is considering using Withdraw...
+     +  3: raising the user's Defense by 1
+     +  3: function code modifier (generic)
+[AI] Terapagos (1) is considering using Tri Attack against Pikachu (0)...
+     + 12: function code modifier (against target)
+     +  4: damaging move (predicted damage 9 = 19% of target's HP)
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Terapagos (1) is considering using Rapid Spin against Pikachu (0)...
+     +  3: damaging move (predicted damage 6 = 12% of target's HP)
+     raising the user's Speed isn't worthwhile
+     +  5: prefer damaging moves (no ally party Pokémon left)
+[AI] Move choices for Terapagos (1):
+   *  12.5% to use Withdraw: score 103
+   *  44.6% to use Tri Attack (target 0): score 121
+   *  21.4% to use Rapid Spin (target 0): score 108
+   *  21.4% to use Rapid Spin (target 0): score 108
+   => will use Rapid Spin (target 0)
+
+[Round order] Pikachu (0), the wild Terapagos (1)
+
+[Use move] Pikachu (0) used Electro Ball
+"Pikachu used Electro Ball!"
+[HP change] The wild Terapagos lost 4 HP (4 -> 0)
+"The wild Terapagos fainted!"
+"Pikachu got 23 Exp. Points!"
+"Your other Pokémon also gained Exp. Points!"
+
+===== Player won =====
+

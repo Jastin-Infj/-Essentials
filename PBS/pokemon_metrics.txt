@@ -1,0 +1,8321 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BULBASAUR]
+BackSprite = 0,58
+FrontSprite = 1,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,56
+#-------------------------------
+[IVYSAUR]
+BackSprite = 2,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,39
+#-------------------------------
+[VENUSAUR]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,23
+#-------------------------------
+[VENUSAUR,1]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,23
+#-------------------------------
+[CHARMANDER]
+BackSprite = 0,46
+FrontSprite = 2,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[CHARMELEON]
+BackSprite = 0,44
+FrontSprite = 5,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[CHARIZARD]
+BackSprite = 8,40
+FrontSprite = -1,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,15
+#-------------------------------
+[CHARIZARD,1]
+BackSprite = 10,45
+FrontSprite = 10,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,15
+#-------------------------------
+[CHARIZARD,2]
+BackSprite = 6,40
+FrontSprite = 1,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,15
+#-------------------------------
+[SQUIRTLE]
+BackSprite = 0,52
+FrontSprite = 3,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[WARTORTLE]
+BackSprite = 0,54
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[BLASTOISE]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,14
+#-------------------------------
+[BLASTOISE,1]
+BackSprite = 0,42
+FrontSprite = -12,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,14
+#-------------------------------
+[CATERPIE]
+BackSprite = 0,52
+FrontSprite = -1,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[METAPOD]
+BackSprite = 0,50
+FrontSprite = -2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,51
+#-------------------------------
+[BUTTERFREE]
+BackSprite = 0,48
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[WEEDLE]
+BackSprite = 0,52
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,50
+#-------------------------------
+[KAKUNA]
+BackSprite = 0,48
+FrontSprite = 1,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[BEEDRILL]
+BackSprite = 0,52
+FrontSprite = -2,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,23
+#-------------------------------
+[BEEDRILL,1]
+BackSprite = 0,38
+FrontSprite = -1,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,23
+#-------------------------------
+[PIDGEY]
+BackSprite = 0,56
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,48
+#-------------------------------
+[PIDGEOTTO]
+BackSprite = 0,40
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,23
+#-------------------------------
+[PIDGEOT]
+BackSprite = 0,48
+FrontSprite = 8,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,18
+#-------------------------------
+[PIDGEOT,1]
+BackSprite = 0,30
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,18
+#-------------------------------
+[RATTATA]
+BackSprite = 0,60
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[RATTATA,1]
+BackSprite = 0,54
+FrontSprite = 4,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,39
+#-------------------------------
+[RATICATE]
+BackSprite = 0,56
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,41
+#-------------------------------
+[RATICATE,1]
+BackSprite = 0,56
+FrontSprite = 4,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SPEAROW]
+BackSprite = 0,54
+FrontSprite = 1,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[FEAROW]
+BackSprite = 5,44
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,30
+#-------------------------------
+[EKANS]
+BackSprite = 0,52
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[ARBOK]
+BackSprite = 0,52
+FrontSprite = 8,21
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,32
+#-------------------------------
+[PIKACHU]
+BackSprite = 2,54
+FrontSprite = 5,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,9]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,10]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,11]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,12]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,13]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,14]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,15]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PIKACHU,16]
+BackSprite = 2,54
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[RAICHU]
+BackSprite = 2,54
+FrontSprite = 4,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,35
+#-------------------------------
+[RAICHU,1]
+BackSprite = 0,54
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[SANDSHREW]
+BackSprite = 2,56
+FrontSprite = 2,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[SANDSHREW,1]
+BackSprite = 0,50
+FrontSprite = 2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[SANDSLASH]
+BackSprite = 0,56
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SANDSLASH,1]
+BackSprite = 0,56
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,36
+#-------------------------------
+[NIDORANfE]
+BackSprite = 0,54
+FrontSprite = -1,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,48
+#-------------------------------
+[NIDORINA]
+BackSprite = 0,42
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,50
+#-------------------------------
+[NIDOQUEEN]
+BackSprite = 0,44
+FrontSprite = 2,19
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,27
+#-------------------------------
+[NIDORANmA]
+BackSprite = 0,52
+FrontSprite = 3,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,54
+#-------------------------------
+[NIDORINO]
+BackSprite = 0,50
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,44
+#-------------------------------
+[NIDOKING]
+BackSprite = 0,48
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,24
+#-------------------------------
+[CLEFAIRY]
+BackSprite = 0,48
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,45
+#-------------------------------
+[CLEFABLE]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[VULPIX]
+BackSprite = 0,59
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,39
+#-------------------------------
+[VULPIX,1]
+BackSprite = -2,56
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[NINETALES]
+BackSprite = 0,48
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[NINETALES,1]
+BackSprite = 0,48
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,30
+#-------------------------------
+[JIGGLYPUFF]
+BackSprite = 0,56
+FrontSprite = -2,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[WIGGLYTUFF]
+BackSprite = 0,54
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[ZUBAT]
+BackSprite = 0,54
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,53
+#-------------------------------
+[GOLBAT]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[ODDISH]
+BackSprite = 0,50
+FrontSprite = 2,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[GLOOM]
+BackSprite = 0,48
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[VILEPLUME]
+BackSprite = 0,48
+FrontSprite = -1,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,39
+#-------------------------------
+[PARAS]
+BackSprite = 0,58
+FrontSprite = 3,41
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[PARASECT]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,35
+#-------------------------------
+[VENONAT]
+BackSprite = -4,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[VENOMOTH]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,39
+#-------------------------------
+[DIGLETT]
+BackSprite = 0,56
+FrontSprite = -1,38
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[DIGLETT,1]
+BackSprite = 2,56
+FrontSprite = 1,37
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,56
+#-------------------------------
+[DUGTRIO]
+BackSprite = 2,48
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[DUGTRIO,1]
+BackSprite = 2,48
+FrontSprite = 3,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[MEOWTH]
+BackSprite = 0,54
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MEOWTH,2]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,38
+#-------------------------------
+[PERSIAN]
+BackSprite = 0,50
+FrontSprite = -4,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,30
+#-------------------------------
+[PERSIAN,1]
+BackSprite = 0,54
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[PSYDUCK]
+BackSprite = 0,52
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[GOLDUCK]
+BackSprite = 0,48
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[MANKEY]
+BackSprite = 0,48
+FrontSprite = -5,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[PRIMEAPE]
+BackSprite = 0,58
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[GROWLITHE]
+BackSprite = 0,56
+FrontSprite = -2,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,48
+#-------------------------------
+[ARCANINE]
+BackSprite = 0,42
+FrontSprite = 1,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,24
+#-------------------------------
+[POLIWAG]
+BackSprite = 0,50
+FrontSprite = 4,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[POLIWHIRL]
+BackSprite = 0,54
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[POLIWRATH]
+BackSprite = 0,56
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[ABRA]
+BackSprite = 0,54
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[KADABRA]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[ALAKAZAM]
+BackSprite = 0,48
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,12
+#-------------------------------
+[ALAKAZAM,1]
+BackSprite = 3,32
+FrontSprite = 4,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,12
+#-------------------------------
+[MACHOP]
+BackSprite = 0,48
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MACHOKE]
+BackSprite = 0,42
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MACHAMP]
+BackSprite = 0,38
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,26
+#-------------------------------
+[BELLSPROUT]
+BackSprite = 0,48
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,45
+#-------------------------------
+[WEEPINBELL]
+BackSprite = 0,54
+FrontSprite = 11,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,48
+#-------------------------------
+[VICTREEBEL]
+BackSprite = 0,48
+FrontSprite = 8,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,23
+#-------------------------------
+[TENTACOOL]
+BackSprite = 0,54
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[TENTACRUEL]
+BackSprite = 4,54
+FrontSprite = 6,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,27
+#-------------------------------
+[GEODUDE]
+BackSprite = 0,58
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,62
+#-------------------------------
+[GEODUDE,1]
+BackSprite = 0,58
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,53
+#-------------------------------
+[GRAVELER]
+BackSprite = -3,62
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,45
+#-------------------------------
+[GRAVELER,1]
+BackSprite = 3,56
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[GOLEM]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,32
+#-------------------------------
+[GOLEM,1]
+BackSprite = 0,48
+FrontSprite = -1,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[PONYTA]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[PONYTA,1]
+BackSprite = 0,54
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[RAPIDASH]
+BackSprite = 0,46
+FrontSprite = 4,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SLOWPOKE]
+BackSprite = 0,54
+FrontSprite = 6,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SLOWPOKE,1]
+BackSprite = 0,62
+FrontSprite = 2,38
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[SLOWBRO]
+BackSprite = 0,54
+FrontSprite = 6,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,23
+#-------------------------------
+[SLOWBRO,1]
+BackSprite = 0,54
+FrontSprite = 6,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[SLOWBRO,2]
+BackSprite = 0,54
+FrontSprite = -2,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,23
+#-------------------------------
+[MAGNEMITE]
+BackSprite = 0,55
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,108
+DmaxFrontSprite = 0,60
+#-------------------------------
+[MAGNETON]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,41
+#-------------------------------
+[FARFETCHD]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[FARFETCHD,1]
+BackSprite = -2,58
+FrontSprite = 6,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[DODUO]
+BackSprite = 0,48
+FrontSprite = -3,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,39
+#-------------------------------
+[DODRIO]
+BackSprite = 0,45
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SEEL]
+BackSprite = 0,54
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[DEWGONG]
+BackSprite = 0,46
+FrontSprite = -2,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,26
+#-------------------------------
+[GRIMER]
+BackSprite = 0,52
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,51
+#-------------------------------
+[GRIMER,1]
+BackSprite = 0,48
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MUK]
+BackSprite = 4,50
+FrontSprite = -4,26
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[MUK,1]
+BackSprite = 0,50
+FrontSprite = -2,27
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SHELLDER]
+BackSprite = 0,58
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,54
+#-------------------------------
+[CLOYSTER]
+BackSprite = 0,48
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[GASTLY]
+BackSprite = 0,50
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,36
+#-------------------------------
+[HAUNTER]
+BackSprite = 0,48
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[GENGAR]
+BackSprite = 0,56
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,32
+#-------------------------------
+[GENGAR,1]
+BackSprite = 7,54
+FrontSprite = -4,23
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,32
+#-------------------------------
+[ONIX]
+BackSprite = -15,36
+FrontSprite = -6,16
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[DROWZEE]
+BackSprite = 0,52
+FrontSprite = -3,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[HYPNO]
+BackSprite = 0,48
+FrontSprite = 4,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[KRABBY]
+BackSprite = 0,54
+FrontSprite = -1,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[KINGLER]
+BackSprite = 0,48
+FrontSprite = -1,23
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[VOLTORB]
+BackSprite = 0,54
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,56
+#-------------------------------
+[ELECTRODE]
+BackSprite = 0,48
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[EXEGGCUTE]
+BackSprite = 0,65
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[EXEGGUTOR]
+BackSprite = 0,44
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,23
+#-------------------------------
+[EXEGGUTOR,1]
+BackSprite = 0,36
+FrontSprite = -7,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,6
+#-------------------------------
+[CUBONE]
+BackSprite = 0,52
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[MAROWAK]
+BackSprite = 0,48
+FrontSprite = -9,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MAROWAK,1]
+BackSprite = -6,32
+FrontSprite = 3,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,26
+#-------------------------------
+[HITMONLEE]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,30
+#-------------------------------
+[HITMONCHAN]
+BackSprite = 0,54
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[LICKITUNG]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[KOFFING]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[WEEZING]
+BackSprite = 0,54
+FrontSprite = 0,7
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,33
+#-------------------------------
+[WEEZING,1]
+BackSprite = 0,34
+FrontSprite = 7,-3
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,9
+#-------------------------------
+[RHYHORN]
+BackSprite = 0,54
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,38
+#-------------------------------
+[RHYDON]
+BackSprite = 0,52
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,29
+#-------------------------------
+[CHANSEY]
+BackSprite = 0,52
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,45
+#-------------------------------
+[TANGELA]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[KANGASKHAN]
+BackSprite = 0,48
+FrontSprite = 1,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[KANGASKHAN,1]
+BackSprite = 2,50
+FrontSprite = 3,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[HORSEA]
+BackSprite = 0,54
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,51
+#-------------------------------
+[SEADRA]
+BackSprite = 0,52
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[GOLDEEN]
+BackSprite = 0,52
+FrontSprite = 8,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,51
+#-------------------------------
+[SEAKING]
+BackSprite = 0,64
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[STARYU]
+BackSprite = 0,60
+FrontSprite = 5,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[STARMIE]
+BackSprite = 0,58
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MRMIME]
+BackSprite = 0,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[MRMIME,1]
+BackSprite = 0,54
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SCYTHER]
+BackSprite = 0,50
+FrontSprite = -2,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[JYNX]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,41
+#-------------------------------
+[ELECTABUZZ]
+BackSprite = 0,44
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[MAGMAR]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,32
+#-------------------------------
+[PINSIR]
+BackSprite = 0,48
+FrontSprite = 6,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,29
+#-------------------------------
+[PINSIR,1]
+BackSprite = 0,44
+FrontSprite = 4,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,29
+#-------------------------------
+[TAUROS]
+BackSprite = -4,54
+FrontSprite = -12,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[MAGIKARP]
+BackSprite = 0,54
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,36
+#-------------------------------
+[GYARADOS]
+BackSprite = 0,46
+FrontSprite = -4,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,12
+#-------------------------------
+[GYARADOS,1]
+BackSprite = 0,32
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,12
+#-------------------------------
+[LAPRAS]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,29
+#-------------------------------
+[DITTO]
+BackSprite = 0,54
+FrontSprite = 0,38
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[EEVEE]
+BackSprite = 0,48
+FrontSprite = 2,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,48
+#-------------------------------
+[VAPOREON]
+BackSprite = 0,48
+FrontSprite = 5,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[JOLTEON]
+BackSprite = 0,50
+FrontSprite = -3,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[FLAREON]
+BackSprite = 0,58
+FrontSprite = 5,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[PORYGON]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[OMANYTE]
+BackSprite = 0,50
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[OMASTAR]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[KABUTO]
+BackSprite = 0,52
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,56
+#-------------------------------
+[KABUTOPS]
+BackSprite = 0,56
+FrontSprite = -8,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[AERODACTYL]
+BackSprite = 0,48
+FrontSprite = -1,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,33
+#-------------------------------
+[AERODACTYL,1]
+BackSprite = 0,48
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,33
+#-------------------------------
+[SNORLAX]
+BackSprite = 0,52
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,27
+#-------------------------------
+[ARTICUNO]
+BackSprite = 0,40
+FrontSprite = 11,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,20
+#-------------------------------
+[ARTICUNO,1]
+BackSprite = 0,48
+FrontSprite = 4,12
+ShadowX = 7
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[ZAPDOS]
+BackSprite = 0,42
+FrontSprite = 3,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,33
+#-------------------------------
+[ZAPDOS,1]
+BackSprite = 0,46
+FrontSprite = 6,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MOLTRES]
+BackSprite = 16,50
+FrontSprite = 9,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,26
+#-------------------------------
+[DRATINI]
+BackSprite = 0,48
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,45
+#-------------------------------
+[DRAGONAIR]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[DRAGONITE]
+BackSprite = 0,48
+FrontSprite = 6,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,20
+#-------------------------------
+[MEWTWO]
+BackSprite = 0,48
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[MEWTWO,1]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[MEWTWO,2]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[MEW]
+BackSprite = 0,52
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[CHIKORITA]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,42
+#-------------------------------
+[BAYLEEF]
+BackSprite = 0,56
+FrontSprite = -1,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MEGANIUM]
+BackSprite = 0,48
+FrontSprite = -2,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,17
+#-------------------------------
+[CYNDAQUIL]
+BackSprite = 0,54
+FrontSprite = -2,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[QUILAVA]
+BackSprite = 0,50
+FrontSprite = 2,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[TYPHLOSION]
+BackSprite = 0,44
+FrontSprite = -1,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,26
+#-------------------------------
+[TOTODILE]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[CROCONAW]
+BackSprite = 0,52
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,36
+#-------------------------------
+[FERALIGATR]
+BackSprite = 6,48
+FrontSprite = -3,17
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SENTRET]
+BackSprite = 0,52
+FrontSprite = 6,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,33
+#-------------------------------
+[FURRET]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[HOOTHOOT]
+BackSprite = 0,48
+FrontSprite = 3,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[NOCTOWL]
+BackSprite = 0,54
+FrontSprite = 1,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,30
+#-------------------------------
+[LEDYBA]
+BackSprite = 0,48
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[LEDIAN]
+BackSprite = 0,48
+FrontSprite = 3,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,39
+#-------------------------------
+[SPINARAK]
+BackSprite = 0,60
+FrontSprite = 0,38
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[ARIADOS]
+BackSprite = 0,52
+FrontSprite = 6,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[CROBAT]
+BackSprite = 4,50
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[CHINCHOU]
+BackSprite = 0,48
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[LANTURN]
+BackSprite = 0,48
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,42
+#-------------------------------
+[PICHU]
+BackSprite = 0,48
+FrontSprite = 4,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,56
+#-------------------------------
+[PICHU,2]
+BackSprite = 0,8
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,39
+#-------------------------------
+[CLEFFA]
+BackSprite = 0,58
+FrontSprite = 0,37
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[IGGLYBUFF]
+BackSprite = 0,52
+FrontSprite = -1,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[TOGEPI]
+BackSprite = 0,54
+FrontSprite = 3,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,57
+#-------------------------------
+[TOGETIC]
+BackSprite = 0,52
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[NATU]
+BackSprite = 0,60
+FrontSprite = 4,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,53
+#-------------------------------
+[XATU]
+BackSprite = 0,59
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,39
+#-------------------------------
+[MAREEP]
+BackSprite = 0,48
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[FLAAFFY]
+BackSprite = 0,52
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[AMPHAROS]
+BackSprite = -5,44
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[AMPHAROS,1]
+BackSprite = 0,42
+FrontSprite = 10,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[BELLOSSOM]
+BackSprite = 0,58
+FrontSprite = 0,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[MARILL]
+BackSprite = 0,54
+FrontSprite = 5,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,53
+#-------------------------------
+[AZUMARILL]
+BackSprite = -10,42
+FrontSprite = 2,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SUDOWOODO]
+BackSprite = 0,48
+FrontSprite = 3,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[POLITOED]
+BackSprite = 3,56
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[HOPPIP]
+BackSprite = 0,58
+FrontSprite = 8,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SKIPLOOM]
+BackSprite = 0,58
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,54
+#-------------------------------
+[JUMPLUFF]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,47
+#-------------------------------
+[AIPOM]
+BackSprite = -6,50
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SUNKERN]
+BackSprite = 0,54
+FrontSprite = 4,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,56
+#-------------------------------
+[SUNFLORA]
+BackSprite = 0,48
+FrontSprite = -1,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[YANMA]
+BackSprite = 0,50
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,47
+#-------------------------------
+[WOOPER]
+BackSprite = 0,50
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,53
+#-------------------------------
+[QUAGSIRE]
+BackSprite = 0,52
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[ESPEON]
+BackSprite = 0,52
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,38
+#-------------------------------
+[UMBREON]
+BackSprite = 0,54
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MURKROW]
+BackSprite = 0,52
+FrontSprite = 3,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SLOWKING]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MISDREAVUS]
+BackSprite = 0,54
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[UNOWN]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[WOBBUFFET]
+BackSprite = 0,54
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,39
+#-------------------------------
+[GIRAFARIG]
+BackSprite = 0,48
+FrontSprite = -1,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[PINECO]
+BackSprite = 0,56
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,50
+#-------------------------------
+[FORRETRESS]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[DUNSPARCE]
+BackSprite = 0,60
+FrontSprite = 1,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,48
+#-------------------------------
+[GLIGAR]
+BackSprite = 0,50
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[STEELIX]
+BackSprite = 0,48
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,11
+#-------------------------------
+[STEELIX,1]
+BackSprite = 0,48
+FrontSprite = -8,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,11
+#-------------------------------
+[SNUBBULL]
+BackSprite = 0,52
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[GRANBULL]
+BackSprite = 0,50
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[QWILFISH]
+BackSprite = 0,52
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SCIZOR]
+BackSprite = 0,52
+FrontSprite = -4,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,18
+#-------------------------------
+[SHUCKLE]
+BackSprite = 0,56
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[HERACROSS]
+BackSprite = 0,52
+FrontSprite = -3,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[HERACROSS,1]
+BackSprite = 6,40
+FrontSprite = -4,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[SNEASEL]
+BackSprite = 0,54
+FrontSprite = 4,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[TEDDIURSA]
+BackSprite = 0,54
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,51
+#-------------------------------
+[URSARING]
+BackSprite = 0,48
+FrontSprite = -1,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,26
+#-------------------------------
+[SLUGMA]
+BackSprite = -2,54
+FrontSprite = -6,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MAGCARGO]
+BackSprite = 0,50
+FrontSprite = 1,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SWINUB]
+BackSprite = 0,62
+FrontSprite = 0,37
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,108
+DmaxFrontSprite = 0,59
+#-------------------------------
+[PILOSWINE]
+BackSprite = 0,52
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[CORSOLA]
+BackSprite = -4,51
+FrontSprite = 2,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[CORSOLA,1]
+BackSprite = 0,52
+FrontSprite = 4,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,50
+#-------------------------------
+[REMORAID]
+BackSprite = 0,64
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,51
+#-------------------------------
+[OCTILLERY]
+BackSprite = 0,54
+FrontSprite = 2,31
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,45
+#-------------------------------
+[DELIBIRD]
+BackSprite = 0,48
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,39
+#-------------------------------
+[MANTINE]
+BackSprite = 0,48
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SKARMORY]
+BackSprite = 0,50
+FrontSprite = 2,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[HOUNDOUR]
+BackSprite = 0,48
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[HOUNDOOM]
+BackSprite = 0,50
+FrontSprite = 4,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[HOUNDOOM,1]
+BackSprite = 0,40
+FrontSprite = 9,11
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[KINGDRA]
+BackSprite = -4,40
+FrontSprite = 5,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,29
+#-------------------------------
+[PHANPY]
+BackSprite = 0,50
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[DONPHAN]
+BackSprite = 9,52
+FrontSprite = -6,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[PORYGON2]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[STANTLER]
+BackSprite = 0,54
+FrontSprite = -3,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SMEARGLE]
+BackSprite = 0,50
+FrontSprite = -1,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[TYROGUE]
+BackSprite = 0,48
+FrontSprite = -3,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[HITMONTOP]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[SMOOCHUM]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[ELEKID]
+BackSprite = 0,58
+FrontSprite = 3,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,48
+#-------------------------------
+[MAGBY]
+BackSprite = 0,54
+FrontSprite = -2,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[MILTANK]
+BackSprite = 0,54
+FrontSprite = 5,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[BLISSEY]
+BackSprite = 0,52
+FrontSprite = 1,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,38
+#-------------------------------
+[RAIKOU]
+BackSprite = 0,54
+FrontSprite = 2,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[ENTEI]
+BackSprite = 0,48
+FrontSprite = -3,19
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[SUICUNE]
+BackSprite = 0,54
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[LARVITAR]
+BackSprite = 0,52
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,42
+#-------------------------------
+[PUPITAR]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[TYRANITAR]
+BackSprite = 1,48
+FrontSprite = 10,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,15
+#-------------------------------
+[TYRANITAR,1]
+BackSprite = 0,48
+FrontSprite = 11,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,15
+#-------------------------------
+[LUGIA]
+BackSprite = 14,44
+FrontSprite = -7,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,20
+#-------------------------------
+[HOOH]
+BackSprite = 10,42
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,9
+#-------------------------------
+[CELEBI]
+BackSprite = 0,52
+FrontSprite = 1,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[TREECKO]
+BackSprite = 0,48
+FrontSprite = 3,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[GROVYLE]
+BackSprite = 0,48
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SCEPTILE]
+BackSprite = 0,46
+FrontSprite = 6,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SCEPTILE,1]
+BackSprite = 0,42
+FrontSprite = -10,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,20
+#-------------------------------
+[TORCHIC]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[COMBUSKEN]
+BackSprite = 0,46
+FrontSprite = 1,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,32
+#-------------------------------
+[BLAZIKEN]
+BackSprite = -2,48
+FrontSprite = -4,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,6
+#-------------------------------
+[BLAZIKEN,1]
+BackSprite = 6,48
+FrontSprite = 17,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,6
+#-------------------------------
+[MUDKIP]
+BackSprite = 0,54
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MARSHTOMP]
+BackSprite = 0,48
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SWAMPERT]
+BackSprite = 0,48
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[SWAMPERT,1]
+BackSprite = 0,48
+FrontSprite = -2,17
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[POOCHYENA]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,48
+#-------------------------------
+[MIGHTYENA]
+BackSprite = 0,48
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[ZIGZAGOON]
+BackSprite = 0,52
+FrontSprite = 2,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,44
+#-------------------------------
+[ZIGZAGOON,1]
+BackSprite = 0,50
+FrontSprite = 4,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[LINOONE]
+BackSprite = 0,58
+FrontSprite = 7,35
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,53
+#-------------------------------
+[LINOONE,1]
+BackSprite = 0,59
+FrontSprite = 6,35
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[WURMPLE]
+BackSprite = 0,54
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SILCOON]
+BackSprite = 0,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,45
+#-------------------------------
+[BEAUTIFLY]
+BackSprite = 0,48
+FrontSprite = 3,11
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,41
+#-------------------------------
+[CASCOON]
+BackSprite = 0,60
+FrontSprite = 0,37
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[DUSTOX]
+BackSprite = 0,48
+FrontSprite = 0,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,47
+#-------------------------------
+[LOTAD]
+BackSprite = 0,62
+FrontSprite = -1,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,53
+#-------------------------------
+[LOMBRE]
+BackSprite = 0,48
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[LUDICOLO]
+BackSprite = 0,48
+FrontSprite = 2,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SEEDOT]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[NUZLEAF]
+BackSprite = 0,44
+FrontSprite = 4,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SHIFTRY]
+BackSprite = 4,48
+FrontSprite = 4,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[TAILLOW]
+BackSprite = 0,58
+FrontSprite = 3,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,51
+#-------------------------------
+[SWELLOW]
+BackSprite = 0,52
+FrontSprite = 9,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[WINGULL]
+BackSprite = 0,55
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[PELIPPER]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[RALTS]
+BackSprite = 0,52
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,50
+#-------------------------------
+[KIRLIA]
+BackSprite = 0,48
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[GARDEVOIR]
+BackSprite = -8,48
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,23
+#-------------------------------
+[GARDEVOIR,1]
+BackSprite = 1,42
+FrontSprite = -1,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,23
+#-------------------------------
+[SURSKIT]
+BackSprite = 0,62
+FrontSprite = 0,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MASQUERAIN]
+BackSprite = 0,40
+FrontSprite = 6,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SHROOMISH]
+BackSprite = 0,58
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[BRELOOM]
+BackSprite = 0,44
+FrontSprite = 5,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[SLAKOTH]
+BackSprite = 0,60
+FrontSprite = 2,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,56
+#-------------------------------
+[VIGOROTH]
+BackSprite = 0,48
+FrontSprite = 1,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SLAKING]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[NINCADA]
+BackSprite = 0,60
+FrontSprite = -2,38
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,59
+#-------------------------------
+[NINJASK]
+BackSprite = 0,52
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SHEDINJA]
+BackSprite = 0,52
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[WHISMUR]
+BackSprite = 0,54
+FrontSprite = 1,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[LOUDRED]
+BackSprite = 0,48
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,33
+#-------------------------------
+[EXPLOUD]
+BackSprite = 0,44
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,29
+#-------------------------------
+[MAKUHITA]
+BackSprite = 0,48
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[HARIYAMA]
+BackSprite = 0,48
+FrontSprite = 4,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,21
+#-------------------------------
+[AZURILL]
+BackSprite = -7,52
+FrontSprite = 3,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,48
+#-------------------------------
+[NOSEPASS]
+BackSprite = 0,52
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SKITTY]
+BackSprite = 0,58
+FrontSprite = 4,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[DELCATTY]
+BackSprite = 0,48
+FrontSprite = 1,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SABLEYE]
+BackSprite = 0,54
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,30
+#-------------------------------
+[SABLEYE,1]
+BackSprite = 0,48
+FrontSprite = -2,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,30
+#-------------------------------
+[MAWILE]
+BackSprite = 0,46
+FrontSprite = -3,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MAWILE,1]
+BackSprite = 0,38
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[ARON]
+BackSprite = 0,58
+FrontSprite = -1,37
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,56
+#-------------------------------
+[LAIRON]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[AGGRON]
+BackSprite = 0,48
+FrontSprite = -7,16
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,18
+#-------------------------------
+[AGGRON,1]
+BackSprite = 9,48
+FrontSprite = -4,13
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,18
+#-------------------------------
+[MEDITITE]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MEDICHAM]
+BackSprite = 0,44
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MEDICHAM,1]
+BackSprite = 0,42
+FrontSprite = 3,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,27
+#-------------------------------
+[ELECTRIKE]
+BackSprite = 0,54
+FrontSprite = -4,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[MANECTRIC]
+BackSprite = 0,44
+FrontSprite = -1,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,23
+#-------------------------------
+[MANECTRIC,1]
+BackSprite = 0,36
+FrontSprite = -3,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,23
+#-------------------------------
+[PLUSLE]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MINUN]
+BackSprite = 0,48
+FrontSprite = 6,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[VOLBEAT]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[ILLUMISE]
+BackSprite = 0,52
+FrontSprite = 3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[ROSELIA]
+BackSprite = 0,48
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[GULPIN]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[SWALOT]
+BackSprite = 0,52
+FrontSprite = -2,23
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[CARVANHA]
+BackSprite = 0,44
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[SHARPEDO]
+BackSprite = 0,54
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SHARPEDO,1]
+BackSprite = 0,50
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,24
+#-------------------------------
+[WAILMER]
+BackSprite = 0,60
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[WAILORD]
+BackSprite = 0,59
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[NUMEL]
+BackSprite = 0,48
+FrontSprite = -5,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[CAMERUPT]
+BackSprite = 0,48
+FrontSprite = -1,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[CAMERUPT,1]
+BackSprite = 0,44
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[TORKOAL]
+BackSprite = 0,48
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[SPOINK]
+BackSprite = 0,52
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[GRUMPIG]
+BackSprite = 0,52
+FrontSprite = 2,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[SPINDA]
+BackSprite = 0,48
+FrontSprite = 6,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[TRAPINCH]
+BackSprite = 0,54
+FrontSprite = -3,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,47
+#-------------------------------
+[VIBRAVA]
+BackSprite = 0,50
+FrontSprite = 7,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[FLYGON]
+BackSprite = 0,46
+FrontSprite = -1,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[CACNEA]
+BackSprite = 0,48
+FrontSprite = 1,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[CACTURNE]
+BackSprite = 0,48
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,26
+#-------------------------------
+[SWABLU]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[ALTARIA]
+BackSprite = -3,46
+FrontSprite = 0,7
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,9
+#-------------------------------
+[ALTARIA,1]
+BackSprite = 0,54
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,9
+#-------------------------------
+[ZANGOOSE]
+BackSprite = 0,44
+FrontSprite = 3,21
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,32
+#-------------------------------
+[SEVIPER]
+BackSprite = 0,56
+FrontSprite = 6,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[LUNATONE]
+BackSprite = 0,46
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SOLROCK]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[BARBOACH]
+BackSprite = 0,58
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[WHISCASH]
+BackSprite = 0,54
+FrontSprite = 1,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,45
+#-------------------------------
+[CORPHISH]
+BackSprite = 0,48
+FrontSprite = 2,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[CRAWDAUNT]
+BackSprite = 0,46
+FrontSprite = -8,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[BALTOY]
+BackSprite = -7,52
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[CLAYDOL]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[LILEEP]
+BackSprite = 0,44
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[CRADILY]
+BackSprite = -3,42
+FrontSprite = -4,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,20
+#-------------------------------
+[ANORITH]
+BackSprite = 0,58
+FrontSprite = 3,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,42
+#-------------------------------
+[ARMALDO]
+BackSprite = 0,48
+FrontSprite = 1,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[FEEBAS]
+BackSprite = 0,48
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[MILOTIC]
+BackSprite = 0,42
+FrontSprite = 10,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[CASTFORM]
+BackSprite = 0,51
+FrontSprite = 1,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[KECLEON]
+BackSprite = 0,42
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SHUPPET]
+BackSprite = 0,54
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[BANETTE]
+BackSprite = 0,46
+FrontSprite = 3,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[BANETTE,1]
+BackSprite = 0,42
+FrontSprite = 3,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[DUSKULL]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[DUSCLOPS]
+BackSprite = 0,48
+FrontSprite = 5,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[TROPIUS]
+BackSprite = 0,44
+FrontSprite = 8,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[CHIMECHO]
+BackSprite = 0,54
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[ABSOL]
+BackSprite = 0,48
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,26
+#-------------------------------
+[ABSOL,1]
+BackSprite = 0,48
+FrontSprite = -3,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,26
+#-------------------------------
+[WYNAUT]
+BackSprite = 0,50
+FrontSprite = -1,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SNORUNT]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[GLALIE]
+BackSprite = 0,50
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[GLALIE,1]
+BackSprite = 0,50
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[SPHEAL]
+BackSprite = 0,58
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,53
+#-------------------------------
+[SEALEO]
+BackSprite = 2,54
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[WALREIN]
+BackSprite = 0,54
+FrontSprite = 1,21
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[CLAMPERL]
+BackSprite = 0,54
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[HUNTAIL]
+BackSprite = 0,50
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[GOREBYSS]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,41
+#-------------------------------
+[RELICANTH]
+BackSprite = 0,58
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[LUVDISC]
+BackSprite = 0,48
+FrontSprite = -1,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[BAGON]
+BackSprite = 0,48
+FrontSprite = -2,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SHELGON]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SALAMENCE]
+BackSprite = 0,46
+FrontSprite = -4,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SALAMENCE,1]
+BackSprite = 6,44
+FrontSprite = -6,19
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,24
+#-------------------------------
+[BELDUM]
+BackSprite = 0,54
+FrontSprite = -1,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[METANG]
+BackSprite = 0,56
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,38
+#-------------------------------
+[METAGROSS]
+BackSprite = 0,62
+FrontSprite = -1,29
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,21
+#-------------------------------
+[METAGROSS,1]
+BackSprite = 0,36
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,21
+#-------------------------------
+[REGIROCK]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,26
+#-------------------------------
+[REGICE]
+BackSprite = 0,48
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[REGISTEEL]
+BackSprite = 0,48
+FrontSprite = -6,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,32
+#-------------------------------
+[LATIAS]
+BackSprite = 0,44
+FrontSprite = 0,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[LATIAS,1]
+BackSprite = 0,44
+FrontSprite = 2,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[LATIOS]
+BackSprite = 0,44
+FrontSprite = 2,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[LATIOS,1]
+BackSprite = 0,44
+FrontSprite = 2,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[KYOGRE]
+BackSprite = 0,58
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,33
+#-------------------------------
+[KYOGRE,1]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,33
+#-------------------------------
+[GROUDON]
+BackSprite = 0,48
+FrontSprite = 2,16
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,17
+#-------------------------------
+[GROUDON,1]
+BackSprite = 0,45
+FrontSprite = -1,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,17
+#-------------------------------
+[RAYQUAZA]
+BackSprite = 0,36
+FrontSprite = 10,2
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[RAYQUAZA,1]
+BackSprite = 0,34
+FrontSprite = 0,2
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[JIRACHI]
+BackSprite = -1,48
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[DEOXYS]
+BackSprite = 0,48
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[DEOXYS,1]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[DEOXYS,2]
+BackSprite = 0,48
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,20
+#-------------------------------
+[DEOXYS,3]
+BackSprite = 0,48
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,20
+#-------------------------------
+[TURTWIG]
+BackSprite = 0,48
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[GROTLE]
+BackSprite = 0,50
+FrontSprite = -1,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,41
+#-------------------------------
+[TORTERRA]
+BackSprite = 0,46
+FrontSprite = 3,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,18
+#-------------------------------
+[CHIMCHAR]
+BackSprite = 0,46
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,42
+#-------------------------------
+[MONFERNO]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[INFERNAPE]
+BackSprite = 0,48
+FrontSprite = 6,21
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,30
+#-------------------------------
+[PIPLUP]
+BackSprite = 0,56
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,56
+#-------------------------------
+[PRINPLUP]
+BackSprite = 0,58
+FrontSprite = 4,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[EMPOLEON]
+BackSprite = 0,42
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,21
+#-------------------------------
+[STARLY]
+BackSprite = 0,58
+FrontSprite = 1,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,50
+#-------------------------------
+[STARAVIA]
+BackSprite = 0,56
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,41
+#-------------------------------
+[STARAPTOR]
+BackSprite = 0,54
+FrontSprite = 2,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,36
+#-------------------------------
+[BIDOOF]
+BackSprite = 4,56
+FrontSprite = -3,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[BIBAREL]
+BackSprite = -8,48
+FrontSprite = 9,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[KRICKETOT]
+BackSprite = 0,56
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[KRICKETUNE]
+BackSprite = 0,54
+FrontSprite = 3,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SHINX]
+BackSprite = 0,58
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[LUXIO]
+BackSprite = 0,48
+FrontSprite = 4,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,42
+#-------------------------------
+[LUXRAY]
+BackSprite = 0,48
+FrontSprite = 5,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,32
+#-------------------------------
+[BUDEW]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,45
+#-------------------------------
+[ROSERADE]
+BackSprite = 0,48
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[CRANIDOS]
+BackSprite = 0,45
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[RAMPARDOS]
+BackSprite = 0,44
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SHIELDON]
+BackSprite = 0,52
+FrontSprite = -2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,50
+#-------------------------------
+[BASTIODON]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[BURMY]
+BackSprite = 0,44
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[WORMADAM]
+BackSprite = 0,38
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MOTHIM]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,45
+#-------------------------------
+[COMBEE]
+BackSprite = 0,54
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[VESPIQUEN]
+BackSprite = -4,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[PACHIRISU]
+BackSprite = 0,50
+FrontSprite = 6,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,41
+#-------------------------------
+[BUIZEL]
+BackSprite = -5,48
+FrontSprite = 4,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[FLOATZEL]
+BackSprite = 0,48
+FrontSprite = 4,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[CHERUBI]
+BackSprite = 0,54
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[CHERRIM]
+BackSprite = 0,50
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[CHERRIM,1]
+BackSprite = 0,52
+FrontSprite = 3,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[SHELLOS]
+BackSprite = 0,54
+FrontSprite = -2,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SHELLOS,1]
+BackSprite = 0,54
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,47
+#-------------------------------
+[GASTRODON]
+BackSprite = 0,48
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[AMBIPOM]
+BackSprite = 1,36
+FrontSprite = 7,15
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,26
+#-------------------------------
+[DRIFLOON]
+BackSprite = 0,50
+FrontSprite = -2,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[DRIFBLIM]
+BackSprite = 0,48
+FrontSprite = 4,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[BUNEARY]
+BackSprite = 0,38
+FrontSprite = -3,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,36
+#-------------------------------
+[LOPUNNY]
+BackSprite = 0,48
+FrontSprite = 2,19
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[LOPUNNY,1]
+BackSprite = 0,42
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MISMAGIUS]
+BackSprite = 0,44
+FrontSprite = -2,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,30
+#-------------------------------
+[HONCHKROW]
+BackSprite = 0,48
+FrontSprite = 3,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,36
+#-------------------------------
+[GLAMEOW]
+BackSprite = 0,48
+FrontSprite = 8,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,35
+#-------------------------------
+[PURUGLY]
+BackSprite = 0,54
+FrontSprite = -4,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[CHINGLING]
+BackSprite = 0,56
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,50
+#-------------------------------
+[STUNKY]
+BackSprite = 0,54
+FrontSprite = 5,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SKUNTANK]
+BackSprite = 0,52
+FrontSprite = -4,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,38
+#-------------------------------
+[BRONZOR]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[BRONZONG]
+BackSprite = 6,48
+FrontSprite = -1,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[BONSLY]
+BackSprite = -4,46
+FrontSprite = 4,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MIMEJR]
+BackSprite = 0,42
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[HAPPINY]
+BackSprite = 0,52
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[CHATOT]
+BackSprite = 0,48
+FrontSprite = 3,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SPIRITOMB]
+BackSprite = 0,48
+FrontSprite = 4,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[GIBLE]
+BackSprite = 0,56
+FrontSprite = -2,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[GABITE]
+BackSprite = -2,48
+FrontSprite = -5,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,32
+#-------------------------------
+[GARCHOMP]
+BackSprite = 0,46
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,20
+#-------------------------------
+[GARCHOMP,1]
+BackSprite = 2,44
+FrontSprite = 2,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,20
+#-------------------------------
+[MUNCHLAX]
+BackSprite = 0,48
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[RIOLU]
+BackSprite = 0,54
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[LUCARIO]
+BackSprite = 0,44
+FrontSprite = 1,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[LUCARIO,1]
+BackSprite = 0,46
+FrontSprite = 3,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[HIPPOPOTAS]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,48
+#-------------------------------
+[HIPPOWDON]
+BackSprite = 0,54
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,32
+#-------------------------------
+[SKORUPI]
+BackSprite = 0,58
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[DRAPION]
+BackSprite = 0,46
+FrontSprite = -12,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,32
+#-------------------------------
+[CROAGUNK]
+BackSprite = 0,50
+FrontSprite = -3,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[TOXICROAK]
+BackSprite = 0,48
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[CARNIVINE]
+BackSprite = 8,52
+FrontSprite = 4,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[FINNEON]
+BackSprite = 0,56
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,54
+#-------------------------------
+[LUMINEON]
+BackSprite = 0,46
+FrontSprite = 4,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,35
+#-------------------------------
+[MANTYKE]
+BackSprite = 0,44
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SNOVER]
+BackSprite = 0,54
+FrontSprite = 1,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,39
+#-------------------------------
+[ABOMASNOW]
+BackSprite = 0,45
+FrontSprite = 1,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[ABOMASNOW,1]
+BackSprite = 0,45
+FrontSprite = 3,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[WEAVILE]
+BackSprite = 0,48
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,29
+#-------------------------------
+[MAGNEZONE]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,36
+#-------------------------------
+[LICKILICKY]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[RHYPERIOR]
+BackSprite = 0,48
+FrontSprite = 3,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[TANGROWTH]
+BackSprite = 0,48
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[ELECTIVIRE]
+BackSprite = 0,45
+FrontSprite = 1,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,24
+#-------------------------------
+[MAGMORTAR]
+BackSprite = 0,48
+FrontSprite = 2,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[TOGEKISS]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[YANMEGA]
+BackSprite = 0,57
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,32
+#-------------------------------
+[LEAFEON]
+BackSprite = -6,52
+FrontSprite = 2,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,41
+#-------------------------------
+[GLACEON]
+BackSprite = 0,48
+FrontSprite = -4,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[GLISCOR]
+BackSprite = 0,44
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[MAMOSWINE]
+BackSprite = 0,48
+FrontSprite = -9,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[PORYGONZ]
+BackSprite = 0,58
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[GALLADE]
+BackSprite = 2,40
+FrontSprite = -4,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[GALLADE,1]
+BackSprite = 3,44
+FrontSprite = 8,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[PROBOPASS]
+BackSprite = 0,52
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,32
+#-------------------------------
+[DUSKNOIR]
+BackSprite = 3,42
+FrontSprite = -9,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[FROSLASS]
+BackSprite = 0,50
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,38
+#-------------------------------
+[ROTOM]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[ROTOM,1]
+BackSprite = 0,56
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[ROTOM,2]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[ROTOM,3]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[ROTOM,4]
+BackSprite = 0,58
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[ROTOM,5]
+BackSprite = 0,56
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,29
+#-------------------------------
+[UXIE]
+BackSprite = -4,54
+FrontSprite = -4,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,50
+#-------------------------------
+[MESPRIT]
+BackSprite = 0,48
+FrontSprite = 2,15
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[AZELF]
+BackSprite = 0,52
+FrontSprite = 6,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,56
+#-------------------------------
+[DIALGA]
+BackSprite = 0,32
+FrontSprite = 8,11
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,12
+#-------------------------------
+[PALKIA]
+BackSprite = 0,40
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,27
+#-------------------------------
+[HEATRAN]
+BackSprite = 3,58
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,36
+#-------------------------------
+[REGIGIGAS]
+BackSprite = 0,46
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,27
+#-------------------------------
+[GIRATINA]
+BackSprite = 9,44
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,20
+#-------------------------------
+[GIRATINA,1]
+BackSprite = 0,40
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[CRESSELIA]
+BackSprite = 0,45
+FrontSprite = 0,5
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[PHIONE]
+BackSprite = 0,48
+FrontSprite = 8,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[MANAPHY]
+BackSprite = -4,54
+FrontSprite = 9,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[DARKRAI]
+BackSprite = 0,44
+FrontSprite = 4,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[SHAYMIN]
+BackSprite = 0,58
+FrontSprite = 4,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,54
+#-------------------------------
+[SHAYMIN,1]
+BackSprite = 0,54
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[ARCEUS]
+BackSprite = 0,56
+FrontSprite = 2,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[VICTINI]
+BackSprite = 0,48
+FrontSprite = -6,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[SNIVY]
+BackSprite = 0,54
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[SERVINE]
+BackSprite = 0,56
+FrontSprite = 4,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[SERPERIOR]
+BackSprite = 0,48
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,27
+#-------------------------------
+[TEPIG]
+BackSprite = 0,56
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,54
+#-------------------------------
+[PIGNITE]
+BackSprite = 0,48
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[EMBOAR]
+BackSprite = 0,44
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,23
+#-------------------------------
+[OSHAWOTT]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[DEWOTT]
+BackSprite = 0,52
+FrontSprite = 5,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SAMUROTT]
+BackSprite = 0,46
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,18
+#-------------------------------
+[PATRAT]
+BackSprite = 0,54
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,45
+#-------------------------------
+[WATCHOG]
+BackSprite = 0,54
+FrontSprite = 5,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,27
+#-------------------------------
+[LILLIPUP]
+BackSprite = 0,48
+FrontSprite = -2,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[HERDIER]
+BackSprite = 0,52
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,39
+#-------------------------------
+[STOUTLAND]
+BackSprite = 0,54
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[PURRLOIN]
+BackSprite = 0,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[LIEPARD]
+BackSprite = 0,48
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[PANSAGE]
+BackSprite = 0,48
+FrontSprite = 6,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SIMISAGE]
+BackSprite = 0,48
+FrontSprite = 5,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,30
+#-------------------------------
+[PANSEAR]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[SIMISEAR]
+BackSprite = 0,52
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,36
+#-------------------------------
+[PANPOUR]
+BackSprite = 0,48
+FrontSprite = 6,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SIMIPOUR]
+BackSprite = 0,48
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[MUNNA]
+BackSprite = 0,57
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,56
+#-------------------------------
+[MUSHARNA]
+BackSprite = 0,48
+FrontSprite = -12,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[PIDOVE]
+BackSprite = 0,50
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[TRANQUILL]
+BackSprite = 0,54
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,42
+#-------------------------------
+[UNFEZANT]
+BackSprite = 0,54
+FrontSprite = 2,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,26
+#-------------------------------
+[BLITZLE]
+BackSprite = 0,42
+FrontSprite = -5,21
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[ZEBSTRIKA]
+BackSprite = 0,57
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[ROGGENROLA]
+BackSprite = 0,56
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,51
+#-------------------------------
+[BOLDORE]
+BackSprite = -3,52
+FrontSprite = 1,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[GIGALITH]
+BackSprite = 5,48
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,24
+#-------------------------------
+[WOOBAT]
+BackSprite = 0,50
+FrontSprite = 3,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,53
+#-------------------------------
+[SWOOBAT]
+BackSprite = 0,54
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[DRILBUR]
+BackSprite = 0,48
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,41
+#-------------------------------
+[EXCADRILL]
+BackSprite = 10,48
+FrontSprite = 0,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[AUDINO]
+BackSprite = 0,48
+FrontSprite = 6,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[AUDINO,1]
+BackSprite = -6,48
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,32
+#-------------------------------
+[TIMBURR]
+BackSprite = 0,54
+FrontSprite = 4,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,48
+#-------------------------------
+[GURDURR]
+BackSprite = 0,54
+FrontSprite = -1,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[CONKELDURR]
+BackSprite = 0,48
+FrontSprite = 6,26
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,30
+#-------------------------------
+[TYMPOLE]
+BackSprite = 0,54
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[PALPITOAD]
+BackSprite = 0,54
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SEISMITOAD]
+BackSprite = -2,54
+FrontSprite = -2,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,26
+#-------------------------------
+[THROH]
+BackSprite = 0,52
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SAWK]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SEWADDLE]
+BackSprite = 0,62
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,54
+#-------------------------------
+[SWADLOON]
+BackSprite = 0,52
+FrontSprite = -1,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,51
+#-------------------------------
+[LEAVANNY]
+BackSprite = 0,38
+FrontSprite = -3,10
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[VENIPEDE]
+BackSprite = 2,58
+FrontSprite = 2,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,54
+#-------------------------------
+[WHIRLIPEDE]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SCOLIPEDE]
+BackSprite = 0,48
+FrontSprite = -4,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[COTTONEE]
+BackSprite = 0,52
+FrontSprite = 1,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[WHIMSICOTT]
+BackSprite = 0,54
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[PETILIL]
+BackSprite = 0,48
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[LILLIGANT]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[BASCULIN]
+BackSprite = 0,52
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,56
+#-------------------------------
+[SANDILE]
+BackSprite = 0,64
+FrontSprite = -2,38
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,59
+#-------------------------------
+[KROKOROK]
+BackSprite = 6,48
+FrontSprite = 3,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,32
+#-------------------------------
+[KROOKODILE]
+BackSprite = 0,38
+FrontSprite = -1,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,23
+#-------------------------------
+[DARUMAKA]
+BackSprite = 0,57
+FrontSprite = 3,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,51
+#-------------------------------
+[DARMANITAN]
+BackSprite = 0,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,33
+#-------------------------------
+[DARMANITAN,1]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[DARMANITAN,3]
+BackSprite = 0,54
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[MARACTUS]
+BackSprite = 0,38
+FrontSprite = -1,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,24
+#-------------------------------
+[DWEBBLE]
+BackSprite = 0,58
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,54
+#-------------------------------
+[CRUSTLE]
+BackSprite = 0,48
+FrontSprite = 1,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,32
+#-------------------------------
+[SCRAGGY]
+BackSprite = 0,56
+FrontSprite = 4,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SCRAFTY]
+BackSprite = 0,56
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,32
+#-------------------------------
+[SIGILYPH]
+BackSprite = 0,44
+FrontSprite = -4,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,11
+#-------------------------------
+[YAMASK]
+BackSprite = 2,52
+FrontSprite = 1,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[YAMASK,1]
+BackSprite = -1,52
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[COFAGRIGUS]
+BackSprite = 12,48
+FrontSprite = -8,2
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,21
+#-------------------------------
+[TIRTOUGA]
+BackSprite = 0,60
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,51
+#-------------------------------
+[CARRACOSTA]
+BackSprite = 2,48
+FrontSprite = -5,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,33
+#-------------------------------
+[ARCHEN]
+BackSprite = 0,58
+FrontSprite = 6,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,48
+#-------------------------------
+[ARCHEOPS]
+BackSprite = 1,58
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,15
+#-------------------------------
+[TRUBBISH]
+BackSprite = 0,54
+FrontSprite = 4,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[GARBODOR]
+BackSprite = 8,48
+FrontSprite = -3,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,27
+#-------------------------------
+[ZORUA]
+BackSprite = 0,46
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[ZOROARK]
+BackSprite = 0,47
+FrontSprite = 1,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,27
+#-------------------------------
+[MINCCINO]
+BackSprite = 0,52
+FrontSprite = 1,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,38
+#-------------------------------
+[CINCCINO]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[GOTHITA]
+BackSprite = 0,49
+FrontSprite = 1,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,51
+#-------------------------------
+[GOTHORITA]
+BackSprite = 0,48
+FrontSprite = 3,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,41
+#-------------------------------
+[GOTHITELLE]
+BackSprite = 0,42
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[SOLOSIS]
+BackSprite = 0,58
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,56
+#-------------------------------
+[DUOSION]
+BackSprite = 0,50
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[REUNICLUS]
+BackSprite = 4,58
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,39
+#-------------------------------
+[DUCKLETT]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[SWANNA]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[VANILLITE]
+BackSprite = 0,54
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,54
+#-------------------------------
+[VANILLISH]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,35
+#-------------------------------
+[VANILLUXE]
+BackSprite = 0,52
+FrontSprite = 3,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,29
+#-------------------------------
+[DEERLING]
+BackSprite = -1,52
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SAWSBUCK]
+BackSprite = 0,58
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[EMOLGA]
+BackSprite = 0,48
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,54
+#-------------------------------
+[KARRABLAST]
+BackSprite = 0,52
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,54
+#-------------------------------
+[ESCAVALIER]
+BackSprite = 0,44
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,24
+#-------------------------------
+[FOONGUS]
+BackSprite = 0,54
+FrontSprite = 2,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[AMOONGUSS]
+BackSprite = 0,48
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,42
+#-------------------------------
+[FRILLISH]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,33
+#-------------------------------
+[JELLICENT]
+BackSprite = 0,42
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[ALOMOMOLA]
+BackSprite = -5,49
+FrontSprite = -5,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,18
+#-------------------------------
+[JOLTIK]
+BackSprite = 0,58
+FrontSprite = 4,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,103
+DmaxFrontSprite = 0,54
+#-------------------------------
+[GALVANTULA]
+BackSprite = 0,60
+FrontSprite = 4,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,44
+#-------------------------------
+[FERROSEED]
+BackSprite = 0,54
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[FERROTHORN]
+BackSprite = 0,56
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[KLINK]
+BackSprite = 0,48
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[KLANG]
+BackSprite = 0,54
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[KLINKLANG]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[TYNAMO]
+BackSprite = 0,60
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,112
+DmaxFrontSprite = 0,65
+#-------------------------------
+[EELEKTRIK]
+BackSprite = 0,40
+FrontSprite = -2,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,32
+#-------------------------------
+[EELEKTROSS]
+BackSprite = 0,45
+FrontSprite = -4,21
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[ELGYEM]
+BackSprite = 0,42
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[BEHEEYEM]
+BackSprite = 0,48
+FrontSprite = -1,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,32
+#-------------------------------
+[LITWICK]
+BackSprite = 0,52
+FrontSprite = -2,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[LAMPENT]
+BackSprite = 0,54
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[CHANDELURE]
+BackSprite = 0,32
+FrontSprite = -3,5
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[AXEW]
+BackSprite = 0,54
+FrontSprite = -1,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[FRAXURE]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[HAXORUS]
+BackSprite = 2,36
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,12
+#-------------------------------
+[CUBCHOO]
+BackSprite = 0,54
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,53
+#-------------------------------
+[BEARTIC]
+BackSprite = 0,48
+FrontSprite = -1,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,24
+#-------------------------------
+[CRYOGONAL]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,26
+#-------------------------------
+[SHELMET]
+BackSprite = 0,56
+FrontSprite = 2,36
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,56
+#-------------------------------
+[ACCELGOR]
+BackSprite = 9,48
+FrontSprite = 5,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,41
+#-------------------------------
+[STUNFISK]
+BackSprite = 0,64
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,47
+#-------------------------------
+[STUNFISK,1]
+BackSprite = 0,62
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,50
+#-------------------------------
+[MIENFOO]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,42
+#-------------------------------
+[MIENSHAO]
+BackSprite = 0,52
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[DRUDDIGON]
+BackSprite = 0,36
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,27
+#-------------------------------
+[GOLETT]
+BackSprite = 0,48
+FrontSprite = 1,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,35
+#-------------------------------
+[GOLURK]
+BackSprite = 0,42
+FrontSprite = 1,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,18
+#-------------------------------
+[PAWNIARD]
+BackSprite = 0,48
+FrontSprite = 0,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[BISHARP]
+BackSprite = -4,44
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,26
+#-------------------------------
+[BOUFFALANT]
+BackSprite = 1,52
+FrontSprite = -7,24
+ShadowX = 3
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,35
+#-------------------------------
+[RUFFLET]
+BackSprite = 0,56
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,42
+#-------------------------------
+[BRAVIARY]
+BackSprite = -5,38
+FrontSprite = 2,5
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,17
+#-------------------------------
+[VULLABY]
+BackSprite = 0,54
+FrontSprite = 1,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[MANDIBUZZ]
+BackSprite = 0,44
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,30
+#-------------------------------
+[HEATMOR]
+BackSprite = 8,54
+FrontSprite = -3,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[DURANT]
+BackSprite = 0,56
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[DEINO]
+BackSprite = 0,48
+FrontSprite = -2,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[ZWEILOUS]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,33
+#-------------------------------
+[HYDREIGON]
+BackSprite = 0,42
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,21
+#-------------------------------
+[LARVESTA]
+BackSprite = 0,50
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[VOLCARONA]
+BackSprite = -4,48
+FrontSprite = 3,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[COBALION]
+BackSprite = 0,40
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[TERRAKION]
+BackSprite = 0,54
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,33
+#-------------------------------
+[VIRIZION]
+BackSprite = -4,48
+FrontSprite = -5,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,26
+#-------------------------------
+[TORNADUS]
+BackSprite = 0,54
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[TORNADUS,1]
+BackSprite = 0,42
+FrontSprite = 7,13
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[THUNDURUS]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,27
+#-------------------------------
+[THUNDURUS,1]
+BackSprite = 0,44
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,27
+#-------------------------------
+[RESHIRAM]
+BackSprite = 0,42
+FrontSprite = 5,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,17
+#-------------------------------
+[ZEKROM]
+BackSprite = 0,48
+FrontSprite = 2,7
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,9
+#-------------------------------
+[LANDORUS]
+BackSprite = 0,44
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[LANDORUS,1]
+BackSprite = 0,36
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,17
+#-------------------------------
+[KYUREM]
+BackSprite = 0,52
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,36
+#-------------------------------
+[KYUREM,1]
+BackSprite = 20,50
+FrontSprite = 8,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,65
+DmaxFrontSprite = 0,11
+#-------------------------------
+[KYUREM,2]
+BackSprite = 0,38
+FrontSprite = 9,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[KYUREM,3]
+BackSprite = 20,50
+FrontSprite = 8,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,65
+DmaxFrontSprite = 0,11
+#-------------------------------
+[KYUREM,4]
+BackSprite = 0,38
+FrontSprite = 9,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[KELDEO]
+BackSprite = 0,48
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[KELDEO,1]
+BackSprite = 0,46
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[MELOETTA]
+BackSprite = 0,48
+FrontSprite = 1,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,39
+#-------------------------------
+[MELOETTA,1]
+BackSprite = 0,46
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[GENESECT]
+BackSprite = 3,46
+FrontSprite = -6,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[CHESPIN]
+BackSprite = 0,46
+FrontSprite = 1,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[QUILLADIN]
+BackSprite = 0,56
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[CHESNAUGHT]
+BackSprite = 9,40
+FrontSprite = -4,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,21
+#-------------------------------
+[FENNEKIN]
+BackSprite = 0,50
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[BRAIXEN]
+BackSprite = 0,38
+FrontSprite = 1,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[DELPHOX]
+BackSprite = 0,40
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,12
+#-------------------------------
+[FROAKIE]
+BackSprite = 0,62
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[FROGADIER]
+BackSprite = 0,48
+FrontSprite = 7,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,41
+#-------------------------------
+[GRENINJA]
+BackSprite = 1,52
+FrontSprite = 6,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[GRENINJA,2]
+BackSprite = 1,48
+FrontSprite = 6,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,23
+#-------------------------------
+[BUNNELBY]
+BackSprite = 0,38
+FrontSprite = -1,21
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[DIGGERSBY]
+BackSprite = 8,46
+FrontSprite = -11,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[FLETCHLING]
+BackSprite = 0,53
+FrontSprite = 2,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[FLETCHINDER]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,35
+#-------------------------------
+[TALONFLAME]
+BackSprite = 0,51
+FrontSprite = 0,5
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,12
+#-------------------------------
+[SCATTERBUG]
+BackSprite = 0,54
+FrontSprite = -2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SPEWPA]
+BackSprite = 0,56
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[VIVILLON]
+BackSprite = 0,50
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[LITLEO]
+BackSprite = 0,54
+FrontSprite = -3,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PYROAR]
+BackSprite = 0,52
+FrontSprite = 3,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[FLABEBE]
+BackSprite = 2,48
+FrontSprite = -4,20
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[FLOETTE]
+BackSprite = 0,48
+FrontSprite = 1,13
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[FLORGES]
+BackSprite = 3,48
+FrontSprite = 5,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SKIDDO]
+BackSprite = 0,56
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[GOGOAT]
+BackSprite = 0,48
+FrontSprite = -4,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[PANCHAM]
+BackSprite = 0,52
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[PANGORO]
+BackSprite = 0,44
+FrontSprite = 5,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,20
+#-------------------------------
+[FURFROU]
+BackSprite = 2,46
+FrontSprite = -2,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,30
+#-------------------------------
+[ESPURR]
+BackSprite = 0,48
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[MEOWSTIC]
+BackSprite = 0,52
+FrontSprite = 4,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[MEOWSTIC,1]
+BackSprite = 0,48
+FrontSprite = 4,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[HONEDGE]
+BackSprite = 0,48
+FrontSprite = 1,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[DOUBLADE]
+BackSprite = 8,52
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,39
+#-------------------------------
+[AEGISLASH]
+BackSprite = 0,50
+FrontSprite = 5,7
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,24
+#-------------------------------
+[AEGISLASH,1]
+BackSprite = 0,57
+FrontSprite = 5,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,24
+#-------------------------------
+[SPRITZEE]
+BackSprite = 0,56
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[AROMATISSE]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[SWIRLIX]
+BackSprite = 0,54
+FrontSprite = 2,33
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[SLURPUFF]
+BackSprite = 0,48
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[INKAY]
+BackSprite = 0,44
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[MALAMAR]
+BackSprite = 0,36
+FrontSprite = -6,7
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,14
+#-------------------------------
+[BINACLE]
+BackSprite = 1,42
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[BARBARACLE]
+BackSprite = 6,44
+FrontSprite = -4,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SKRELP]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[DRAGALGE]
+BackSprite = 8,54
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,15
+#-------------------------------
+[CLAUNCHER]
+BackSprite = 0,56
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[CLAWITZER]
+BackSprite = 0,40
+FrontSprite = 0,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,20
+#-------------------------------
+[HELIOPTILE]
+BackSprite = 0,54
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[HELIOLISK]
+BackSprite = 4,50
+FrontSprite = -11,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,26
+#-------------------------------
+[TYRUNT]
+BackSprite = 0,54
+FrontSprite = -8,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[TYRANTRUM]
+BackSprite = 0,48
+FrontSprite = 8,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,20
+#-------------------------------
+[AMAURA]
+BackSprite = -4,46
+FrontSprite = -1,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,36
+#-------------------------------
+[AURORUS]
+BackSprite = -4,34
+FrontSprite = 5,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,14
+#-------------------------------
+[SYLVEON]
+BackSprite = 0,48
+FrontSprite = -2,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[HAWLUCHA]
+BackSprite = 0,48
+FrontSprite = -5,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[DEDENNE]
+BackSprite = 0,50
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,51
+#-------------------------------
+[CARBINK]
+BackSprite = 0,58
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[GOOMY]
+BackSprite = 0,48
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[SLIGGOO]
+BackSprite = 0,52
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[GOODRA]
+BackSprite = 1,38
+FrontSprite = 6,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[KLEFKI]
+BackSprite = 0,44
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[PHANTUMP]
+BackSprite = 0,46
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[TREVENANT]
+BackSprite = 0,48
+FrontSprite = 2,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,15
+#-------------------------------
+[PUMPKABOO]
+BackSprite = 0,52
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[GOURGEIST]
+BackSprite = 0,48
+FrontSprite = 1,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[BERGMITE]
+BackSprite = 0,50
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[AVALUGG]
+BackSprite = 0,64
+FrontSprite = -4,28
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[NOIBAT]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[NOIVERN]
+BackSprite = 0,44
+FrontSprite = -5,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,23
+#-------------------------------
+[XERNEAS]
+BackSprite = 0,48
+FrontSprite = -4,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[YVELTAL]
+BackSprite = 0,50
+FrontSprite = 12,-2
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,6
+#-------------------------------
+[ZYGARDE]
+BackSprite = 0,52
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,12
+#-------------------------------
+[ZYGARDE,1]
+BackSprite = 0,44
+FrontSprite = -1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,30
+#-------------------------------
+[ZYGARDE,2]
+BackSprite = 0,49
+FrontSprite = 11,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,6
+#-------------------------------
+[ZYGARDE,3]
+BackSprite = 0,49
+FrontSprite = 11,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,6
+#-------------------------------
+[DIANCIE]
+BackSprite = 0,44
+FrontSprite = 0,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,6
+#-------------------------------
+[DIANCIE,1]
+BackSprite = 11,48
+FrontSprite = -1,3
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,6
+#-------------------------------
+[HOOPA]
+BackSprite = 0,48
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[HOOPA,1]
+BackSprite = 8,32
+FrontSprite = 4,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,9
+#-------------------------------
+[VOLCANION]
+BackSprite = 0,44
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[ROWLET]
+BackSprite = 0,58
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[DARTRIX]
+BackSprite = 0,48
+FrontSprite = 2,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[DECIDUEYE]
+BackSprite = 0,48
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[LITTEN]
+BackSprite = 0,48
+FrontSprite = -1,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,48
+#-------------------------------
+[TORRACAT]
+BackSprite = 0,52
+FrontSprite = -2,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[INCINEROAR]
+BackSprite = 0,48
+FrontSprite = -1,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,18
+#-------------------------------
+[POPPLIO]
+BackSprite = 0,58
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[BRIONNE]
+BackSprite = 0,46
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[PRIMARINA]
+BackSprite = 0,52
+FrontSprite = 6,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[PIKIPEK]
+BackSprite = 0,52
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[TRUMBEAK]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,36
+#-------------------------------
+[TOUCANNON]
+BackSprite = 0,54
+FrontSprite = -10,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[YUNGOOS]
+BackSprite = 0,58
+FrontSprite = 2,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,50
+#-------------------------------
+[GUMSHOOS]
+BackSprite = 0,44
+FrontSprite = 1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,29
+#-------------------------------
+[GRUBBIN]
+BackSprite = 0,60
+FrontSprite = -5,40
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,108
+DmaxFrontSprite = 0,60
+#-------------------------------
+[CHARJABUG]
+BackSprite = 0,58
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[VIKAVOLT]
+BackSprite = 0,54
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,32
+#-------------------------------
+[CRABRAWLER]
+BackSprite = 0,48
+FrontSprite = -4,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,38
+#-------------------------------
+[CRABOMINABLE]
+BackSprite = 10,44
+FrontSprite = -4,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,15
+#-------------------------------
+[ORICORIO]
+BackSprite = 0,54
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[ORICORIO,1]
+BackSprite = 0,54
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,42
+#-------------------------------
+[ORICORIO,2]
+BackSprite = 0,54
+FrontSprite = 4,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[ORICORIO,3]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[CUTIEFLY]
+BackSprite = 0,48
+FrontSprite = 3,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[RIBOMBEE]
+BackSprite = 0,58
+FrontSprite = 8,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[ROCKRUFF]
+BackSprite = 0,52
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[LYCANROC]
+BackSprite = 0,50
+FrontSprite = -2,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[LYCANROC,1]
+BackSprite = 0,46
+FrontSprite = -9,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,21
+#-------------------------------
+[WISHIWASHI]
+BackSprite = 0,54
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,54
+#-------------------------------
+[WISHIWASHI,1]
+BackSprite = 0,58
+FrontSprite = 9,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,21
+#-------------------------------
+[MAREANIE]
+BackSprite = 0,54
+FrontSprite = 4,29
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[TOXAPEX]
+BackSprite = 0,48
+FrontSprite = -1,22
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,23
+#-------------------------------
+[MUDBRAY]
+BackSprite = 0,52
+FrontSprite = -1,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[MUDSDALE]
+BackSprite = 0,46
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[DEWPIDER]
+BackSprite = 0,48
+FrontSprite = 1,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,47
+#-------------------------------
+[ARAQUANID]
+BackSprite = 0,52
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,30
+#-------------------------------
+[FOMANTIS]
+BackSprite = 0,48
+FrontSprite = -1,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[LURANTIS]
+BackSprite = 0,42
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[MORELULL]
+BackSprite = 0,44
+FrontSprite = 1,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[SHIINOTIC]
+BackSprite = 0,48
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[SALANDIT]
+BackSprite = 0,52
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,42
+#-------------------------------
+[SALAZZLE]
+BackSprite = 0,48
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[STUFFUL]
+BackSprite = 0,58
+FrontSprite = 1,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,47
+#-------------------------------
+[BEWEAR]
+BackSprite = 0,42
+FrontSprite = -1,17
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[BOUNSWEET]
+BackSprite = 0,54
+FrontSprite = 2,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[STEENEE]
+BackSprite = 0,54
+FrontSprite = 3,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[TSAREENA]
+BackSprite = -4,52
+FrontSprite = 0,11
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,20
+#-------------------------------
+[COMFEY]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[ORANGURU]
+BackSprite = 0,50
+FrontSprite = 1,23
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,33
+#-------------------------------
+[PASSIMIAN]
+BackSprite = 0,44
+FrontSprite = 4,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,30
+#-------------------------------
+[WIMPOD]
+BackSprite = 0,54
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,51
+#-------------------------------
+[GOLISOPOD]
+BackSprite = 0,44
+FrontSprite = -3,10
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,17
+#-------------------------------
+[SANDYGAST]
+BackSprite = 0,48
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,44
+#-------------------------------
+[PALOSSAND]
+BackSprite = 0,48
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[PYUKUMUKU]
+BackSprite = 0,58
+FrontSprite = 2,38
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,106
+DmaxFrontSprite = 0,59
+#-------------------------------
+[TYPENULL]
+BackSprite = 0,42
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,23
+#-------------------------------
+[SILVALLY]
+BackSprite = 0,38
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,18
+#-------------------------------
+[MINIOR]
+BackSprite = 0,50
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,102
+DmaxFrontSprite = 0,54
+#-------------------------------
+[KOMALA]
+BackSprite = 0,48
+FrontSprite = 6,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[TURTONATOR]
+BackSprite = 0,48
+FrontSprite = 2,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[TOGEDEMARU]
+BackSprite = 0,54
+FrontSprite = 5,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[MIMIKYU]
+BackSprite = 0,44
+FrontSprite = 6,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[MIMIKYU,1]
+BackSprite = 0,44
+FrontSprite = 5,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,42
+#-------------------------------
+[BRUXISH]
+BackSprite = 0,52
+FrontSprite = 1,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[DRAMPA]
+BackSprite = 1,40
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[DHELMISE]
+BackSprite = 0,36
+FrontSprite = 1,2
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[JANGMOO]
+BackSprite = 0,44
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[HAKAMOO]
+BackSprite = 1,48
+FrontSprite = 6,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[KOMMOO]
+BackSprite = 0,44
+FrontSprite = 6,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[TAPUKOKO]
+BackSprite = 0,48
+FrontSprite = 4,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[TAPULELE]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,35
+#-------------------------------
+[TAPUBULU]
+BackSprite = 0,44
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[TAPUFINI]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,30
+#-------------------------------
+[COSMOG]
+BackSprite = 0,46
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[COSMOEM]
+BackSprite = 0,52
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,51
+#-------------------------------
+[SOLGALEO]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[LUNALA]
+BackSprite = 13,42
+FrontSprite = -6,7
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,18
+#-------------------------------
+[NIHILEGO]
+BackSprite = 0,48
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,26
+#-------------------------------
+[BUZZWOLE]
+BackSprite = 0,48
+FrontSprite = 1,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[PHEROMOSA]
+BackSprite = 0,48
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,9
+#-------------------------------
+[XURKITREE]
+BackSprite = 0,44
+FrontSprite = -4,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[CELESTEELA]
+BackSprite = 10,40
+FrontSprite = 2,-3
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,54
+DmaxFrontSprite = 0,6
+#-------------------------------
+[KARTANA]
+BackSprite = 0,46
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[GUZZLORD]
+BackSprite = 0,44
+FrontSprite = -3,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,17
+#-------------------------------
+[NECROZMA]
+BackSprite = 0,44
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,12
+#-------------------------------
+[NECROZMA,1]
+BackSprite = 0,42
+FrontSprite = 10,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,6
+#-------------------------------
+[NECROZMA,2]
+BackSprite = 4,40
+FrontSprite = -3,1
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,11
+#-------------------------------
+[NECROZMA,3]
+BackSprite = 0,44
+FrontSprite = 4,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,12
+#-------------------------------
+[NECROZMA,4]
+BackSprite = 0,44
+FrontSprite = 4,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,12
+#-------------------------------
+[MAGEARNA]
+BackSprite = 0,48
+FrontSprite = 1,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[MARSHADOW]
+BackSprite = 0,46
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,42
+#-------------------------------
+[POIPOLE]
+BackSprite = 0,48
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[NAGANADEL]
+BackSprite = 0,48
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,14
+#-------------------------------
+[STAKATAKA]
+BackSprite = 0,44
+FrontSprite = -4,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,55
+DmaxFrontSprite = 0,9
+#-------------------------------
+[BLACEPHALON]
+BackSprite = 0,48
+FrontSprite = -4,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,23
+#-------------------------------
+[ZERAORA]
+BackSprite = 0,53
+FrontSprite = 7,19
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,29
+#-------------------------------
+[MELTAN]
+BackSprite = 0,52
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[MELMETAL]
+BackSprite = 11,54
+FrontSprite = -8,15
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,23
+#-------------------------------
+[GROOKEY]
+BackSprite = 0,52
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[THWACKEY]
+BackSprite = 0,58
+FrontSprite = -6,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[RILLABOOM]
+BackSprite = 0,48
+FrontSprite = -2,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[SCORBUNNY]
+BackSprite = 0,54
+FrontSprite = 2,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[RABOOT]
+BackSprite = 0,58
+FrontSprite = 4,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,35
+#-------------------------------
+[CINDERACE]
+BackSprite = 0,48
+FrontSprite = 1,11
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[SOBBLE]
+BackSprite = 0,48
+FrontSprite = 2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,47
+#-------------------------------
+[DRIZZILE]
+BackSprite = 0,50
+FrontSprite = -5,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,41
+#-------------------------------
+[INTELEON]
+BackSprite = 0,44
+FrontSprite = 7,12
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,18
+#-------------------------------
+[SKWOVET]
+BackSprite = 0,54
+FrontSprite = 6,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,42
+#-------------------------------
+[GREEDENT]
+BackSprite = 8,52
+FrontSprite = 12,15
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,23
+#-------------------------------
+[ROOKIDEE]
+BackSprite = 0,58
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[CORVISQUIRE]
+BackSprite = 3,38
+FrontSprite = -1,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
+#-------------------------------
+[CORVIKNIGHT]
+BackSprite = 0,48
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,27
+#-------------------------------
+[BLIPBUG]
+BackSprite = -4,48
+FrontSprite = -1,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,45
+#-------------------------------
+[DOTTLER]
+BackSprite = 0,52
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[ORBEETLE]
+BackSprite = 0,40
+FrontSprite = 1,8
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[NICKIT]
+BackSprite = 0,48
+FrontSprite = 8,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,39
+#-------------------------------
+[THIEVUL]
+BackSprite = 0,54
+FrontSprite = 6,18
+ShadowX = -5
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,30
+#-------------------------------
+[GOSSIFLEUR]
+BackSprite = 0,46
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,91
+DmaxFrontSprite = 0,47
+#-------------------------------
+[ELDEGOSS]
+BackSprite = 0,47
+FrontSprite = 2,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[WOOLOO]
+BackSprite = 0,49
+FrontSprite = 1,28
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,93
+DmaxFrontSprite = 0,45
+#-------------------------------
+[DUBWOOL]
+BackSprite = 0,44
+FrontSprite = -3,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,23
+#-------------------------------
+[CHEWTLE]
+BackSprite = 0,48
+FrontSprite = -3,27
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,44
+#-------------------------------
+[DREDNAW]
+BackSprite = 0,54
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,42
+#-------------------------------
+[YAMPER]
+BackSprite = 0,57
+FrontSprite = 0,29
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,47
+#-------------------------------
+[BOLTUND]
+BackSprite = 2,50
+FrontSprite = -1,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,24
+#-------------------------------
+[ROLYCOLY]
+BackSprite = 0,54
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[CARKOL]
+BackSprite = 0,42
+FrontSprite = -1,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,35
+#-------------------------------
+[COALOSSAL]
+BackSprite = 0,42
+FrontSprite = -2,11
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,17
+#-------------------------------
+[APPLIN]
+BackSprite = -2,48
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,50
+#-------------------------------
+[FLAPPLE]
+BackSprite = 0,56
+FrontSprite = 8,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,90
+DmaxFrontSprite = 0,35
+#-------------------------------
+[APPLETUN]
+BackSprite = -2,42
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,26
+#-------------------------------
+[SILICOBRA]
+BackSprite = 0,58
+FrontSprite = -2,30
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SANDACONDA]
+BackSprite = 0,54
+FrontSprite = -2,26
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,38
+#-------------------------------
+[CRAMORANT]
+BackSprite = 0,48
+FrontSprite = -2,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[CRAMORANT,1]
+BackSprite = 0,48
+FrontSprite = -6,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[CRAMORANT,2]
+BackSprite = 0,48
+FrontSprite = -6,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[ARROKUDA]
+BackSprite = 0,62
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,109
+DmaxFrontSprite = 0,53
+#-------------------------------
+[BARRASKEWDA]
+BackSprite = 0,58
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,51
+#-------------------------------
+[TOXEL]
+BackSprite = 0,54
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,41
+#-------------------------------
+[TOXTRICITY]
+BackSprite = 4,42
+FrontSprite = 0,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[TOXTRICITY,1]
+BackSprite = 0,44
+FrontSprite = 4,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,17
+#-------------------------------
+[SIZZLIPEDE]
+BackSprite = 0,58
+FrontSprite = -6,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,50
+#-------------------------------
+[CENTISKORCH]
+BackSprite = 5,44
+FrontSprite = 5,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,24
+#-------------------------------
+[CLOBBOPUS]
+BackSprite = 0,52
+FrontSprite = 4,33
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,51
+#-------------------------------
+[GRAPPLOCT]
+BackSprite = 1,48
+FrontSprite = -7,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,30
+#-------------------------------
+[SINISTEA]
+BackSprite = 0,58
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,105
+DmaxFrontSprite = 0,57
+#-------------------------------
+[POLTEAGEIST]
+BackSprite = 0,52
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[HATENNA]
+BackSprite = 2,50
+FrontSprite = 2,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,96
+DmaxFrontSprite = 0,51
+#-------------------------------
+[HATTREM]
+BackSprite = 0,48
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[HATTERENE]
+BackSprite = 10,44
+FrontSprite = -7,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,20
+#-------------------------------
+[IMPIDIMP]
+BackSprite = 0,48
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,41
+#-------------------------------
+[MORGREM]
+BackSprite = 0,46
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,81
+DmaxFrontSprite = 0,33
+#-------------------------------
+[GRIMMSNARL]
+BackSprite = 2,42
+FrontSprite = -3,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,20
+#-------------------------------
+[OBSTAGOON]
+BackSprite = 2,44
+FrontSprite = -3,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,70
+DmaxFrontSprite = 0,18
+#-------------------------------
+[PERRSERKER]
+BackSprite = 0,54
+FrontSprite = 0,22
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,82
+DmaxFrontSprite = 0,33
+#-------------------------------
+[CURSOLA]
+BackSprite = 0,44
+FrontSprite = 2,9
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,61
+DmaxFrontSprite = 0,14
+#-------------------------------
+[SIRFETCHD]
+BackSprite = 0,34
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,8
+#-------------------------------
+[MRRIME]
+BackSprite = 0,48
+FrontSprite = -4,23
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,36
+#-------------------------------
+[RUNERIGUS]
+BackSprite = 4,52
+FrontSprite = 0,24
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,84
+DmaxFrontSprite = 0,36
+#-------------------------------
+[MILCERY]
+BackSprite = 0,52
+FrontSprite = 3,34
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,100
+DmaxFrontSprite = 0,53
+#-------------------------------
+[ALCREMIE]
+BackSprite = -2,51
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[FALINKS]
+BackSprite = -1,54
+FrontSprite = -4,30
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,39
+#-------------------------------
+[PINCURCHIN]
+BackSprite = 0,52
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,99
+DmaxFrontSprite = 0,48
+#-------------------------------
+[SNOM]
+BackSprite = 0,56
+FrontSprite = 2,38
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,108
+DmaxFrontSprite = 0,57
+#-------------------------------
+[FROSMOTH]
+BackSprite = 8,50
+FrontSprite = 5,7
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,76
+DmaxFrontSprite = 0,29
+#-------------------------------
+[STONJOURNER]
+BackSprite = 0,48
+FrontSprite = 1,14
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,21
+#-------------------------------
+[EISCUE]
+BackSprite = 0,36
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,17
+#-------------------------------
+[EISCUE,1]
+BackSprite = 0,36
+FrontSprite = 0,10
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,17
+#-------------------------------
+[INDEEDEE]
+BackSprite = 0,52
+FrontSprite = -1,25
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,39
+#-------------------------------
+[INDEEDEE,1]
+BackSprite = 0,54
+FrontSprite = -2,24
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,88
+DmaxFrontSprite = 0,39
+#-------------------------------
+[MORPEKO]
+BackSprite = 0,52
+FrontSprite = 2,26
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,94
+DmaxFrontSprite = 0,41
+#-------------------------------
+[CUFANT]
+BackSprite = 4,48
+FrontSprite = -8,26
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,87
+DmaxFrontSprite = 0,39
+#-------------------------------
+[COPPERAJAH]
+BackSprite = 0,46
+FrontSprite = -3,20
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,26
+#-------------------------------
+[DRACOZOLT]
+BackSprite = 0,48
+FrontSprite = 4,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[ARCTOZOLT]
+BackSprite = -5,40
+FrontSprite = 6,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[DRACOVISH]
+BackSprite = 0,40
+FrontSprite = -3,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[ARCTOVISH]
+BackSprite = -1,56
+FrontSprite = -7,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,69
+DmaxFrontSprite = 0,30
+#-------------------------------
+[DURALUDON]
+BackSprite = 0,44
+FrontSprite = -1,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,23
+#-------------------------------
+[DREEPY]
+BackSprite = 0,52
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,97
+DmaxFrontSprite = 0,48
+#-------------------------------
+[DRAKLOAK]
+BackSprite = 6,48
+FrontSprite = -1,12
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,79
+DmaxFrontSprite = 0,32
+#-------------------------------
+[DRAGAPULT]
+BackSprite = 0,44
+FrontSprite = 1,3
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,67
+DmaxFrontSprite = 0,20
+#-------------------------------
+[ZACIAN]
+BackSprite = 0,44
+FrontSprite = 2,7
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,8
+#-------------------------------
+[ZACIAN,1]
+BackSprite = 0,54
+FrontSprite = -2,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,57
+DmaxFrontSprite = 0,8
+#-------------------------------
+[ZAMAZENTA]
+BackSprite = 0,44
+FrontSprite = -4,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,11
+#-------------------------------
+[ZAMAZENTA,1]
+BackSprite = 0,54
+FrontSprite = -3,11
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,58
+DmaxFrontSprite = 0,11
+#-------------------------------
+[ETERNATUS]
+BackSprite = 0,48
+FrontSprite = 4,4
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,14
+#-------------------------------
+[KUBFU]
+BackSprite = 0,48
+FrontSprite = 2,23
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[URSHIFU]
+BackSprite = 0,44
+FrontSprite = 2,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,64
+DmaxFrontSprite = 0,20
+#-------------------------------
+[URSHIFU,1]
+BackSprite = -2,48
+FrontSprite = -4,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,18
+#-------------------------------
+[ZARUDE]
+BackSprite = 0,53
+FrontSprite = -6,18
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,75
+DmaxFrontSprite = 0,27
+#-------------------------------
+[REGIELEKI]
+BackSprite = 4,48
+FrontSprite = 4,10
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,73
+DmaxFrontSprite = 0,23
+#-------------------------------
+[REGIDRAGO]
+BackSprite = 0,48
+FrontSprite = 0,8
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[GLASTRIER]
+BackSprite = 0,40
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,20
+#-------------------------------
+[SPECTRIER]
+BackSprite = 0,38
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,20
+#-------------------------------
+[CALYREX]
+BackSprite = 0,52
+FrontSprite = 2,9
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,63
+DmaxFrontSprite = 0,15
+#-------------------------------
+[CALYREX,1]
+BackSprite = 0,48
+FrontSprite = 0,12
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,66
+DmaxFrontSprite = 0,17
+#-------------------------------
+[CALYREX,2]
+BackSprite = 0,47
+FrontSprite = -5,9
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,60
+DmaxFrontSprite = 0,14
+#-------------------------------
+[ARCEUS,9]
+BackSprite = 0,0
+FrontSprite = 2,6
+ShadowX = 0
+ShadowSize = 3
+DmaxBackSprite = 0,72
+DmaxFrontSprite = 0,24
+#-------------------------------
+[GASTRODON,1]
+BackSprite = 4,49
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 2
+DmaxBackSprite = 0,85
+DmaxFrontSprite = 0,38
+#-------------------------------
+[MAGEARNA,1]
+BackSprite = 3,50
+FrontSprite = 1,17
+ShadowX = 0
+ShadowSize = 1
+DmaxBackSprite = 0,78
+DmaxFrontSprite = 0,29
