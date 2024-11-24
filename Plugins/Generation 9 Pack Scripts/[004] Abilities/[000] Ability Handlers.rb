@@ -510,6 +510,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:DAUNTLESSSHIELD,
 Battle::AbilityEffects::OnSwitchIn.add(:INTREPIDSWORD,
   proc { |ability, battler, battle, switch_in|
     next if Settings::MECHANICS_GENERATION >= 9 && battler.ability_triggered?
+    # ATK boost
     battler.pbRaiseStatStageByAbility(:ATTACK, 1, battler)
     battle.pbSetAbilityTrigger(battler)
   }
@@ -578,5 +579,19 @@ Battle::AbilityEffects::DamageCalcFromUser.add(:TRANSISTOR,
   proc { |ability, user, target, move, mults, power, type|
     bonus = (Settings::MECHANICS_GENERATION >= 9) ? 1.3 : 1.5
     mults[:attack_multiplier] *= bonus if type == :ELECTRIC
+  }
+)
+
+#===============================================================================
+# Run Away
+#===============================================================================
+# ぎゃくじょう と 同じ条件で 素早さが 3段階上がる
+#-------------------------------------------------------------------------------
+Battle::AbilityEffects::AfterMoveUseFromTarget.add(:RUNAWAY,
+  proc { |ability, target, user, move, switched_battlers, battle|
+    next if !move.damagingMove?
+    next if !target.droppedBelowHalfHP
+    next if !target.pbCanRaiseStatStage?(:SPEED, target)
+    target.pbRaiseStatStageByAbility(:SPEED, 3, target)
   }
 )

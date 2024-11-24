@@ -544,3 +544,29 @@ Battle::AbilityEffects::SpeedCalc.add(:PROTOSYNTHESIS,
 )
 
 Battle::AbilityEffects::SpeedCalc.copy(:PROTOSYNTHESIS, :QUARKDRIVE)
+
+
+#===============================================================================
+# Mysterious Force
+#===============================================================================
+# Boosts Attack but lowers Defense upon entry.
+#-------------------------------------------------------------------------------
+Battle::AbilityEffects::OnSwitchIn.add(:MYSTERIOUSFORCE,
+  proc { |ability, battler, battle, switch_in|
+    # 特性が毎回表示が入る
+    battle.pbShowAbilitySplash(battler)
+
+    showAnim = true
+    battler.pbRaiseStatStage(:ATTACK, 1, battler , showAnim)
+    showAnim = false
+    battler.pbRaiseStatStage(:SPECIAL_ATTACK, 1, battler , showAnim)
+    battler.pbRaiseStatStage(:SPEED, 1, battler , showAnim)
+    showAnim = true
+    battler.pbLowerStatStage(:DEFENSE, 1, battler , showAnim)
+    showAnim = false
+    battler.pbLowerStatStage(:SPECIAL_DEFENSE, 1, battler , showAnim)
+
+    # 特性が毎回表示が非表示
+    battle.pbHideAbilitySplash(battler)
+  }
+)

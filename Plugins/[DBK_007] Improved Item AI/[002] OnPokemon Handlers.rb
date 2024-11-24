@@ -118,7 +118,7 @@ Battle::AI::Handlers::PokemonItemEffectScore.add(:POTION,
               PBDebug.log_score_change(score - old_score, "#{logName}'s ability #{abilName} prefers max HP")
             end
           elsif pkmn.hp < pkmn.totalhp / 2 && heal_hp > pkmn.totalhp / 2
-            if [:DEFEATIST, :BERSERK, :ANGERSHELL].include?(pkmn.ability_id)
+            if [:DEFEATIST, :BERSERK, :ANGERSHELL , :RUNAWAY].include?(pkmn.ability_id)
               (opposes) ? score -= 8 : score += 8
               abilName = GameData::Ability.get(pkmn.ability_id).name
               PBDebug.log_score_change(score - old_score, "#{logName}'s ability #{abilName} prefers >50% HP")

@@ -171,3 +171,7 @@ Description = Resists all types when HP is full.
 [TERAFORMZERO]
 Name = Teraform Zero
 Description = Eliminates all weather and terrain.
+#-------------------------------
+[MYSTERIOUSFORCE]
+Name = Mysterious Force
+Description = Boosts Attack but lowers Defense upon entry.
