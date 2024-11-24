@@ -178,6 +178,7 @@ class Battle::Move
   def pbIsCritical?(user, target)
     return false if target.pbOwnSide.effects[PBEffects::LuckyChant] > 0
     c = 0
+
     # Ability effects that alter critical hit rate
     if c >= 0 && user.abilityActive?
       c = Battle::AbilityEffects.triggerCriticalCalcFromUser(user.ability, user, target, c)
@@ -193,6 +194,7 @@ class Battle::Move
       c = Battle::ItemEffects.triggerCriticalCalcFromTarget(target.item, user, target, c)
     end
     return false if c < 0
+
     # Move-specific "always/never a critical hit" effects
     case pbCritialOverride(user, target)
     when 1  then return true

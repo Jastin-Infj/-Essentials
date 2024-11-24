@@ -172,6 +172,14 @@ Description = Resists all types when HP is full.
 Name = Teraform Zero
 Description = Eliminates all weather and terrain.
 #-------------------------------
-[MYSTERIOUSFORCE]
-Name = Mysterious Force
+[MYSTICPOWER]
+Name = Mystic Power
 Description = Boosts Attack but lowers Defense upon entry.
+#-------------------------------
+[BONDSOFLOVE]
+Name = Bonds of Love
+Description = Reduces damage done to allies.
+#-------------------------------
+[SNIPTERON]
+Name = Snipteron
+Description = Critical and atk boost.

@@ -407,29 +407,35 @@ class Battle::Move
     return false if target.pokemon.immunities.include?(:CRITICALHIT)
     return false if target.pbOwnSide.effects[PBEffects::LuckyChant] > 0
     c = 0
+
     if c >= 0 && user.abilityActive?
-      c = Battle::AbilityEffects.triggerCriticalCalcFromUser(user.ability, user, target, c)
+      c += Battle::AbilityEffects.triggerCriticalCalcFromUser(user.ability, user, target, c)
     end
     if c >= 0 && target.abilityActive? && !@battle.moldBreaker
-      c = Battle::AbilityEffects.triggerCriticalCalcFromTarget(target.ability, user, target, c)
+      c += Battle::AbilityEffects.triggerCriticalCalcFromTarget(target.ability, user, target, c)
     end
     if c >= 0 && user.itemActive?
-      c = Battle::ItemEffects.triggerCriticalCalcFromUser(user.item, user, target, c)
+      c += Battle::ItemEffects.triggerCriticalCalcFromUser(user.item, user, target, c)
     end
     if c >= 0 && target.itemActive?
-      c = Battle::ItemEffects.triggerCriticalCalcFromTarget(target.item, user, target, c)
+      c += Battle::ItemEffects.triggerCriticalCalcFromTarget(target.item, user, target, c)
     end
     return false if c < 0
+
     case pbCritialOverride(user, target)
     when 1  then return true
     when -1 then return false
     end
-    return true if c > 50
+    
+    # return true if c > 50
     return true if user.effects[PBEffects::LaserFocus] > 0
     c += crit_stage_bonuses(user)
     ratios = CRITICAL_HIT_RATIOS
+
+    # 条件まで行ったら 確定クリティカル
     c = ratios.length - 1 if c >= ratios.length
     return true if ratios[c] == 1
+
     r = @battle.pbRandom(ratios[c])
     return true if r == 0
     if r == 1 && Settings::AFFECTION_EFFECTS && @battle.internalBattle &&
