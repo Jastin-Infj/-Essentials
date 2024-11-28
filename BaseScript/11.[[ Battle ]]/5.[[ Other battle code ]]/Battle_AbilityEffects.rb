@@ -1638,7 +1638,7 @@ Battle::AbilityEffects::CriticalCalcFromUser.add(:MERCILESS,
 
 Battle::AbilityEffects::CriticalCalcFromUser.add(:SUPERLUCK,
   proc { |ability, user, target, c|
-    next c + 1
+    next (c + 1)
   }
 )
 

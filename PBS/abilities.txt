@@ -708,7 +708,7 @@ Description = Changes between Blade and Shield Forme with attacks.
 #-------------------------------
 [GALEWINGS]
 Name = Gale Wings
-Description = Flying-type moves gain priority when its HP is full.
+Description = Flying-type moves gain priority.
 #-------------------------------
 [MEGALAUNCHER]
 Name = Mega Launcher
