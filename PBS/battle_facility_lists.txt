@@ -7,7 +7,7 @@ Pokemon = battle_tower_pokemon.txt
 [TrainerList]
 Trainers = cup_poke_trainers.txt
 Pokemon = cup_poke_pkmn.txt
-Challenges = pokecupsingle,pokecupdouble,factorydouble
+Challenges = pokecupsingle,pokecupdouble
 #-------------------------------
 [TrainerList]
 Trainers = cup_little_trainers.txt
