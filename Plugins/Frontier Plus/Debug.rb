@@ -18,6 +18,10 @@ MenuHandlers.add(:debug_menu, :frontier_test, {
       "PBS/cup_poke_pkmn.txt",
     ]
 
+    # 最初は false で設定しておく
+    # Debug で 実行
+    # その後 レポート保存
+    # プログラム自体で true に変更
     filenames.each do |filename|
       if FileTest.exist?(filename)
         Frontier_Plus.convert_file(filename,false)
