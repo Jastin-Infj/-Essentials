@@ -372,25 +372,25 @@ evs = HP, SA
 moves = SPORE, LEECHLIFE, SLASH, LIGHTSCREEN
 #-------------------------------
 [53]
-species = EKANS
-item = POISONBARB
+species = ARTICUNO
+item = CHESTOBERRY
 nature = DOCILE
-evs = HP, ATK
-moves = ACID, DIG, SCREECH, TORMENT
+evs = ATK, SA
+moves = ICEBEAM, AERIALACE, REFLECT, REST
 #-------------------------------
 [54]
-species = DITTO
-item = METALPOWDER
-nature = HARDY
-evs = HP, SPD
-moves = TRANSFORM, , ,
+species = ZAPDOS
+item = SCOPELENS
+nature = DOCILE
+evs = ATK, SA
+moves = THUNDERBOLT, DRILLPECK, DOUBLEEDGE, THUNDERWAVE
 #-------------------------------
 [55]
-species = BARBOACH
-item = FOCUSBAND
-nature = BASHFUL
-evs = ATK, SA
-moves = MAGNITUDE, WATERPULSE, SPARK, FUTURESIGHT
+species = ZAPDOS
+item = LUMBERRY
+nature = DOCILE
+evs = ATK, SPD, SA
+moves = THUNDER, DRILLPECK, RAINDANCE, DOUBLEEDGE
 #-------------------------------
 [56]
 species = MEOWTH
@@ -428,25 +428,25 @@ evs = HP, SA
 moves = WATERGUN, AGILITY, ICYWIND, TWISTER
 #-------------------------------
 [61]
-species = SHROOMISH
-item = MIRACLESEED
-nature = RELAXED
-evs = HP, SA
-moves = SPORE, BULLETSEED, LEECHSEED, HEADBUTT
+species = ARTICUNO
+item = CHESTOBERRY
+nature = DOCILE
+evs = ATK, SA
+moves = ICEBEAM, AERIALACE, REFLECT, REST
 #-------------------------------
 [62]
-species = SHUPPET
-item = RAWSTBERRY
-nature = RASH
-evs = HP, ATK
-moves = WILLOWISP, NIGHTSHADE, GRUDGE, KNOCKOFF
+species = ZAPDOS
+item = SCOPELENS
+nature = DOCILE
+evs = ATK, SA
+moves = THUNDERBOLT, DRILLPECK, DOUBLEEDGE, THUNDERWAVE
 #-------------------------------
 [63]
-species = DUSKULL
-item = PERSIMBERRY
-nature = QUIRKY
-evs = HP, SPD
-moves = SKILLSWAP, NIGHTSHADE, DISABLE, CONFUSERAY
+species = ZAPDOS
+item = LUMBERRY
+nature = DOCILE
+evs = ATK, SPD, SA
+moves = THUNDER, DRILLPECK, RAINDANCE, DOUBLEEDGE
 #-------------------------------
 [64]
 species = ELECTRIKE
@@ -491,25 +491,25 @@ evs = HP, DEF, SD
 moves = RAZORLEAF, ACID, STUNSPORE, WRAP
 #-------------------------------
 [70]
-species = GEODUDE
-item = FOCUSBAND
-nature = BRAVE
-evs = HP, ATK
-moves = MAGNITUDE, ROCKBLAST, STRENGTH, PROTECT
+species = ARTICUNO
+item = CHESTOBERRY
+nature = DOCILE
+evs = ATK, SA
+moves = ICEBEAM, AERIALACE, REFLECT, REST
 #-------------------------------
 [71]
-species = DRATINI
-item = PERSIMBERRY
+species = ZAPDOS
+item = SCOPELENS
 nature = DOCILE
-evs = HP, SA
-moves = OUTRAGE, THUNDERWAVE, SUPERSONIC, WATERPULSE
+evs = ATK, SA
+moves = THUNDERBOLT, DRILLPECK, DOUBLEEDGE, THUNDERWAVE
 #-------------------------------
 [72]
-species = SNUBBULL
-item = SCOPELENS
-nature = RELAXED
-evs = HP, ATK
-moves = BITE, CHARM, SWAGGER, SCARYFACE
+species = ZAPDOS
+item = LUMBERRY
+nature = DOCILE
+evs = ATK, SPD, SA
+moves = THUNDER, DRILLPECK, RAINDANCE, DOUBLEEDGE
 #-------------------------------
 [73]
 species = REMORAID
@@ -1114,25 +1114,25 @@ evs = HP, SPD
 moves = SILVERWIND, TOXIC, PSYBEAM, WHIRLWIND
 #-------------------------------
 [159]
-species = LEDIAN
-item = FOCUSBAND
-nature = BASHFUL
-evs = ATK, SPD
-moves = COMETPUNCH, BATONPASS, SWORDSDANCE, AGILITY
+species = RAIKOU
+item = BRIGHTPOWDER
+nature = MODEST
+evs = SPD, SA
+moves = THUNDERBOLT, DOUBLEEDGE, ROAR, REFLECT
 #-------------------------------
 [160]
-species = ARIADOS
-item = LAXINCENSE
-nature = SERIOUS
-evs = HP, ATK
-moves = SIGNALBEAM, SPIDERWEB, NIGHTSHADE, TOXIC
+species = RAIKOU
+item = CHESTOBERRY
+nature = MODEST
+evs = HP, DEF
+moves = THUNDERBOLT, CALMMIND, SUBSTITUTE, REST
 #-------------------------------
 [161]
-species = YANMA
-item = LAXINCENSE
-nature = RELAXED
+species = ENTEI
+item = SALACBERRY
+nature = DOCILE
 evs = DEF, SD
-moves = SIGNALBEAM, AERIALACE, DOUBLETEAM, DETECT
+moves = FIREBLAST, DOUBLEEDGE, ENDURE, REFLECT
 #-------------------------------
 [162]
 species = DELCATTY
