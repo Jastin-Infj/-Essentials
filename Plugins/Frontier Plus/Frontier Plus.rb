@@ -6,7 +6,7 @@
 # Requires: Swdfm Utilities Plugin!
 #-------------------------------
 # Set to false if using converter!
-USE_FRONTIER_PLUS = true
+USE_FRONTIER_PLUS = false
 #-------------------------------
 # What does this plugin do?
 # - Changes all battle frontier pokemon PBS files (NOT trainer files!):
@@ -398,6 +398,7 @@ module Compiler
         rsection[5] = (name == "DefaultTrainerList")
         if FileTest.exist?("PBS/" + rsection[0])
           rsection[0] = compile_battle_tower_trainers("PBS/" + rsection[0])
+          # echoln "Converting Pokemon File: #{rsection[0][0]}"
         else
           rsection[0] = []
         end
@@ -830,6 +831,10 @@ def pbTestBattleTower
     7,
     pbBattleTowerRules(false, false)
   )
+  setBattleRule("wildZMoves")
+  setBattleRule("wildUltraBurst")
+  setBattleRule("wildDynamax")
+  setBattleRule("wildTerastallize")
   pbBattleChallenge.start(0, 7)
   pbBattleChallengeBattle
 end
