@@ -8,8 +8,8 @@ def pbGenerateBattleTrainer(idxTrainer, rules)
   # Create the trainer
   trainerdata = bttrainers[idxTrainer]
   ##! Selct Test
-  echoln "Trainer Index: #{idxTrainer}"
-  trainerdata = bttrainers[0]
+  # echoln "Trainer Index: #{idxTrainer}"
+  # trainerdata = bttrainers[0]
 
   opponent = NPCTrainer.new(
     pbGetMessageFromHash(MessageTypes::TRAINER_NAMES, trainerdata[1]),
@@ -23,7 +23,7 @@ def pbGenerateBattleTrainer(idxTrainer, rules)
   if trainerdata[6] != nil
     opponent.items += trainerdata[6]
   end
-  echoln "pbGenerateBattleTrainer: #{opponent.items}"
+  # echoln "pbGenerateBattleTrainer: #{opponent.items}"
 
   # Determine how many IVs the trainer's Pokémon will have
   indvalues = 31

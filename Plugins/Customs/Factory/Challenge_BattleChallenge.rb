@@ -24,7 +24,7 @@ class BattleChallenge
     trainerdata = bttrainers[self.nextTrainer]
     opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
     opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
-    echoln "pbBattle: #{opponent.items}"
+    # echoln "pbBattle: #{opponent.items}"
     # バトル開始
     ret = pbOrganizedBattleEx(opponent, self.rules)
     # バトル終了

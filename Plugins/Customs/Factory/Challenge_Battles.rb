@@ -23,7 +23,7 @@ def pbOrganizedBattleEx(opponent, challengedata)
   # init | Add
   # []     [[:Item1 , :Item2]]
   battle.items = [opponent.items]
-  echoln "battle startFunc pbOrganizedBattleEx: #{battle.items}"
+  # echoln "battle startFunc pbOrganizedBattleEx: #{battle.items}"
 
   # Set various other properties in the battle class
   BattleCreationHelperMethods.prepare_battle(battle)
