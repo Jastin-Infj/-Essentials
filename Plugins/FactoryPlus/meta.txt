@@ -1,4 +1,0 @@
-Name      = Frontier Battle Mod+
-Version   = 1.0,0
-Essentials = 21.1
-Credits   = Usagimi
