@@ -1,3 +1,6 @@
+
+#===============================================================================
+# Battle Function
 #===============================================================================
 def pbOrganizedBattleEx(opponent, challengedata)
   # Skip battle if holding Ctrl in Debug mode
@@ -20,13 +23,19 @@ def pbOrganizedBattleEx(opponent, challengedata)
   # Create the battle class (the mechanics side of it)
   battle = challengedata.createBattle(scene, $player, opponent)
   battle.internalBattle = false
+
+  #===============================================================================
+  # Add items NPC Trainer
   # init | Add
   # []     [[:Item1 , :Item2]]
-  battle.items = [opponent.items]
-  # echoln "battle startFunc pbOrganizedBattleEx: #{battle.items}"
-
-  # Set various other properties in the battle class
-  BattleCreationHelperMethods.prepare_battle(battle)
+  #===============================================================================
+  if Settings::ITEM_PARAM_FLAG
+    battle.items = [opponent.items]
+    # echoln "battle startFunc pbOrganizedBattleEx: #{battle.items}"
+    # Set various other properties in the battle class
+    BattleCreationHelperMethods.prepare_battle(battle)
+  end
+  
   # Perform the battle itself
   decision = 0
   pbBattleAnimation(pbGetTrainerBattleBGM(opponent)) do
