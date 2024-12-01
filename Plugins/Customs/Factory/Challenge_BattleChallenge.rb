@@ -17,20 +17,19 @@ class BattleChallenge
   end
 
   # 再定義
-  # def pbBattle
-  #   return @bc.extraData.pbBattle(self) if @bc.extraData   # Battle Factory
-  #   opponent = pbGenerateBattleTrainer(self.nextTrainer, self.rules)
-  #   bttrainers = pbGetBTTrainers(@id)
-  #   trainerdata = bttrainers[self.nextTrainer]
-  #   opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
-  #   opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
-  #   echoln "pbBattle: #{opponent.items}"
-  #   # バトル開始
-  #   ret = pbOrganizedBattleEx(opponent, self.rules)
-    
-  #   # バトル終了
-  #   return ret
-  # end
+  def pbBattle
+    return @bc.extraData.pbBattle(self) if @bc.extraData   # Battle Factory
+    opponent = pbGenerateBattleTrainer(self.nextTrainer, self.rules)
+    bttrainers = pbGetBTTrainers(@id)
+    trainerdata = bttrainers[self.nextTrainer]
+    opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
+    opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
+    echoln "pbBattle: #{opponent.items}"
+    # バトル開始
+    ret = pbOrganizedBattleEx(opponent, self.rules)
+    # バトル終了
+    return ret
+  end
 
 end
 
@@ -46,6 +45,7 @@ class BattleFactoryData
   end
 
   # 再定義
+  # 初回の相手を準備
   def pbPrepareRentals
     @rentals = pbBattleFactoryPokemon(pbBattleChallenge.rules, @bcdata.wins, @bcdata.swaps, [])
     @trainerid = @bcdata.nextTrainer
@@ -55,6 +55,12 @@ class BattleFactoryData
       pbGetMessageFromHash(MessageTypes::TRAINER_NAMES, trainerdata[1]),
       trainerdata[0]
     )
+    @opponent.items = [:MEGARING]
+    # item を追加している場合
+    if trainerdata[6] != nil
+      @opponent.items += trainerdata[6]
+    end
+    # echoln "pbPrepareRentals: #{@opponent.items}"
     @opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
     @opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
     opponentPkmn = pbBattleFactoryPokemon(pbBattleChallenge.rules, @bcdata.wins, @bcdata.swaps, @rentals)
@@ -88,6 +94,11 @@ class BattleFactoryData
       pbGetMessageFromHash(MessageTypes::TRAINER_NAMES, trainerdata[1]),
       trainerdata[0]
     )
+    @opponent.items = [:MEGARING]
+    # item を追加している場合
+    if trainerdata[6] != nil
+      @opponent.items += trainerdata[6]
+    end
     @opponent.lose_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, trainerdata[4])
     @opponent.win_text = pbGetMessageFromHash(MessageTypes::FRONTIER_END_SPEECHES_WIN, trainerdata[3])
     opponentPkmn = pbBattleFactoryPokemon(pbBattleChallenge.rules, @bcdata.wins, @bcdata.swaps,
@@ -114,6 +125,8 @@ class BattleFactoryData
 
   # 再定義
   def pbBattle(challenge)
+    echoln "FactoryData pbBattle: #{@opponent.items}"
     return pbOrganizedBattleEx(@opponent, challenge.rules)
   end
+
 end

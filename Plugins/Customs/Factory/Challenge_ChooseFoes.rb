@@ -23,7 +23,7 @@ def pbGenerateBattleTrainer(idxTrainer, rules)
   if trainerdata[6] != nil
     opponent.items += trainerdata[6]
   end
-  # echoln "Trainer Items: #{opponent.items}"
+  echoln "pbGenerateBattleTrainer: #{opponent.items}"
 
   # Determine how many IVs the trainer's Pokémon will have
   indvalues = 31
