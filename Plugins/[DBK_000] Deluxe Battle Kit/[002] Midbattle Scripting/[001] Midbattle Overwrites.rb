@@ -15,8 +15,6 @@ class Battle
   alias midbattle_initialize initialize
   def initialize(*args)
     midbattle_initialize(*args)
-    # echoln "args #{args[4].items}"
-    # @items = nil
     @midbattleScript    = nil
     @activated_triggers = []
     @midbattleFailSafe  = false

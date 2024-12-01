@@ -112,7 +112,7 @@ module Compiler
           beginspeech.push(rsection[2])
           endspeechwin.push(rsection[3])
           endspeechlose.push(rsection[4])
-          # items
+          # items          
           items.push(rsection[6])
           sections.push(rsection)
         end
@@ -124,5 +124,4 @@ module Compiler
     MessageTypes.addMessagesAsHash(MessageTypes::FRONTIER_END_SPEECHES_LOSE, endspeechlose)
     return sections
   end
-
 end

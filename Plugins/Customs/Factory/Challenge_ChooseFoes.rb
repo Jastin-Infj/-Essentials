@@ -16,11 +16,14 @@ def pbGenerateBattleTrainer(idxTrainer, rules)
     trainerdata[0]
   )
 
+  # Defualt Items
+  opponent.items = [:MEGARING,:ZRING,:ZPOWERRING,:DYNAMAXBAND,:TERAORB,:GLIMMERINGCHARM]
+  
   # itemData を追加している場合
   if trainerdata[6] != nil
-    opponent.items = trainerdata[6]
+    opponent.items += trainerdata[6]
   end
-  echoln "Trainer Items: #{opponent.items}"
+  # echoln "Trainer Items: #{opponent.items}"
 
   # Determine how many IVs the trainer's Pokémon will have
   indvalues = 31
