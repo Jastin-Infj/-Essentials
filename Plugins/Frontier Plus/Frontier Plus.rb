@@ -6,7 +6,7 @@
 # Requires: Swdfm Utilities Plugin!
 #-------------------------------
 # Set to false if using converter!
-USE_FRONTIER_PLUS = false
+USE_FRONTIER_PLUS = true
 #-------------------------------
 # What does this plugin do?
 # - Changes all battle frontier pokemon PBS files (NOT trainer files!):
