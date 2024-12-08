@@ -1,6 +1,11 @@
-Name       = Frontier Battle Mod+
+Name       = [v21.1] Factory NPC Trainer Rentals
 Version    = 1.0.0
 Essentials = 21.1
-Options    = Frontier Plus,Swdfm Utilities
-Options    = [DBK_000] Deluxe Battle Kit,[DBK_004] Z-Power,[DBK_005] Dynamax,[DBK_006] Terastallization
 Credits    = Usagimi
+
+#------------------------------------
+# v1.0.0 FULL Script Used Requires Plugins
+# Requires    = Frontier Plus,Swdfm Utilities
+# Requires    = [DBK] Z-Power
+# Requires    = [DBK] Dynamax
+# Requires    = [DBK] Terastallization
