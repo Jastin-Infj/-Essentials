@@ -27,6 +27,7 @@ module Settings
 
   # Frontiers Plus Requirements
   # [001] Debug.rb , [005] Frontier Plus.rb Required
+  # Not Use Frontiers Plus ↑↑↑ 2file Comment Out or Delete
   #-----------------------------------------------------------------------------
   # NPC Trainer Dynamax Level Default  Min:0 Max: 10
   #-----------------------------------------------------------------------------
