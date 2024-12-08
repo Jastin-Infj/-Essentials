@@ -16,7 +16,8 @@ module Settings
   ITEM_PARAM_FLAG = true
   #-----------------------------------------------------------------------------
   # NPC Trainer PBS File Import True: ON / False : OFF
-  # battle_tower_trainers.txt -> Items = MEGARING,Z-CRYSTAL,FULLRESTORE
+  # [battle_tower_trainers.txt]
+  # Items = MEGARING,Z-CRYSTAL,FULLRESTORE
   #-----------------------------------------------------------------------------
   ITEM_TRAINER_PBS_FILE_PARAM = true
   #-----------------------------------------------------------------------------
@@ -36,6 +37,10 @@ module Settings
   GIGANTAMAX_DEFAULT = false
   #-----------------------------------------------------------------------------
   # NPC Trainer Dynamax PBS File Import True: ON / False : OFF
+  # Complier Required and USE_FRONTIER_PLUS = true
+  # [battle_tower_pokemons.txt]
+  # DynamaxLv = 10
+  # Gigantamax = TRUE
   #-----------------------------------------------------------------------------
   DYNAMAX_PBS_FILE = true
 end
