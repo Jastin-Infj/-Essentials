@@ -1,5 +1,6 @@
 Name       = Frontier Battle Mod+
 Version    = 1.0.0
 Essentials = 21.1
-Requires   = Frontier Plus,Swdfm Utilities
+Options    = Frontier Plus,Swdfm Utilities
+Options    = [DBK_000] Deluxe Battle Kit,[DBK_004] Z-Power,[DBK_005] Dynamax,[DBK_006] Terastallization
 Credits    = Usagimi

@@ -4,10 +4,6 @@
 species = SUNKERN
 item = LAXINCENSE
 nature = RELAXED
-ability = EARLYBIRD
-DynamaxLv = 10
-Gigantamax = TRUE
-tera = FIRE
 evs = HP, SA
 moves = MEGADRAIN, HELPINGHAND, SUNNYDAY, LIGHTSCREEN
 #-------------------------------

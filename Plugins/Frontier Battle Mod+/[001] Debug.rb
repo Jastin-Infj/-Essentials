@@ -9,6 +9,7 @@ MenuHandlers.add(:debug_menu, :frontier_test, {
   "parent"      => :frontier_menu,
   "description" => _INTL("testing..."),
   "effect"      => proc {
+
     filenames = [
       "PBS/battle_tower_pokemon.txt",
       "PBS/cup_fancy_pkmn_single.txt",
@@ -18,14 +19,9 @@ MenuHandlers.add(:debug_menu, :frontier_test, {
       "PBS/cup_poke_pkmn.txt",
     ]
 
-    # 最初は false で設定しておく
-    # Debug で 実行
-    # その後 レポート保存
-    # プログラム自体で true に変更
     filenames.each do |filename|
       if FileTest.exist?(filename)
         Frontier_Plus.convert_file(filename,false)
-        # Frontier_Plus.convert_smogon(filename)
       end
     end
     USB_FRONTIER_PLUS = true

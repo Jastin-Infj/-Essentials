@@ -67,10 +67,10 @@ end
 
 class PBPokemon
 
-  alias swdfm_init initialize
+  alias swdfm_init_new initialize
   def initialize(*args)
     unless USE_FRONTIER_PLUS
-      return swdfm_init(*args)
+      return swdfm_init_new(*args)
     end
     hash = args[0]
 
@@ -95,8 +95,10 @@ class PBPokemon
     @ability = hash["ability"]
     @move1, @move2, @move3, @move4 = hash["moves"]
     @ev = []
-    for t_ev in hash["evs"]
-      @ev.push(GameData::Stat.get(t_ev))
+    unless hash["evs"] == nil 
+      for t_ev in hash["evs"]
+        @ev.push(GameData::Stat.get(t_ev))
+      end
     end
     @ev_core = hash["evs_core"] || {}
     @tera = hash["tera"]
@@ -109,7 +111,6 @@ class PBPokemon
       @dynamax_lvl = Settings::DYNAMAX_LEVEL_DEFAULT
       @gmax_factor = false
     end
-    
   end
 
   alias swdfm_create_pokemon createPokemon

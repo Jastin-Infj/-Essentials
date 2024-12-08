@@ -106,7 +106,6 @@ Battle::AI::Handlers::BattlerItemEffectScore.add(:DIREHIT,
       end
     end
     stages += 1 if battler.has_active_ability?(:SUPERLUCK)
-    stages += 1 if battler.has_active_ability?(:SNIPTERON)
     #---------------------------------------------------------------------------
     # Calculates the crit boosting score.
     desire_mult = (battler.opposes?(ai.trainer)) ? -1 : 1
