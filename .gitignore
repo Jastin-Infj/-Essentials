@@ -3,6 +3,7 @@ Audio
 Fonts
 Graphics
 
+PBS/*.json
 !*.rxdata
 !*.dat
 !*.rb

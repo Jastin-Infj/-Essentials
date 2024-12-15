@@ -8,7 +8,6 @@ def pbGenerateBattleTrainer(idxTrainer, rules)
   # Create the trainer
   trainerdata = bttrainers[idxTrainer]
   ##! Selct Test
-  # echoln "Trainer Index: #{idxTrainer}"
   # trainerdata = bttrainers[0]
 
   opponent = NPCTrainer.new(

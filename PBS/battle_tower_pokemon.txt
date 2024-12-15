@@ -2,10 +2,13 @@
 #-------------------------------
 [0]
 species = SUNKERN
-item = LAXINCENSE
+items_rand = LAXINCENSE_50,FOCUSBAND_50
+ability_rand = EARLYBIRD_70,SOLARPOWER_30
 nature = RELAXED
 evs = HP, SA
-moves = MEGADRAIN, HELPINGHAND, SUNNYDAY, LIGHTSCREEN
+ivs_core = HP_0,SA_0,SPD_0
+moves_rand = MEGADRAIN_100, HELPINGHAND_100, SUNNYDAY_100, LIGHTSCREEN_30,SING_30,CHARM_30
+teras_rand = FIRE_33,NORMAL_33,WATER_33
 #-------------------------------
 [1]
 species = AZURILL
