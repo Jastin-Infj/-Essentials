@@ -1,7 +1,7 @@
 module Frontier_Plus
   CORE = ["species", "moves"]
   LHS_VALID = CORE + [
-    "item","items_rand","nature", "evs", "ivs_core" ,  "ability","ability_rand","moves_rand",
+    "item","items_rand","nature", "evs", "ivs_core" ,  "ability","ability_rand","moves_rand","move1_rand","move2_rand", "move3_rand","move4_rand",
     "evs_core", "tera" , "teras_rand" ,  "dynamaxlv" , "gigantamax"
   ]
 
@@ -108,7 +108,7 @@ module Frontier_Plus
         rhs.push(move_data.id) if move_data
       end
       rhs.push(GameData::Move.keys.first) if rhs.length == 0 # Get any one move
-    when "moves_rand"
+    when "moves_rand" , "move1_rand" , "move2_rand" , "move3_rand" , "move4_rand"
       moves = rhs.unblanked.split(",")
       rhs = []
       for move in moves
@@ -185,7 +185,24 @@ class PBPokemon
     end
 
     # 技
-    if hash["moves_rand"]
+    if hash["move1_rand"] && hash["move2_rand"] && hash["move3_rand"] && hash["move4_rand"]
+      move_pools = [
+        hash["move1_rand"],
+        hash["move2_rand"],
+        hash["move3_rand"],
+        hash["move4_rand"]
+      ]
+      max_selections = 0
+      selected_moves = []
+
+      # 各技のプールから選択
+      move_pools.each do |pool|
+        select_moves_from_pool(pool, max_selections + 1, selected_moves)
+        max_selections += 1
+      end
+      @move1 , @move2 , @move3 , @move4 = selected_moves
+
+    elsif hash["moves_rand"]
       max_selections = 4
       selected_moves = []
 
@@ -246,6 +263,30 @@ class PBPokemon
       @tera = hash["tera"]
     end
 
+  end
+
+  def select_moves_from_pool(pool, max_selections, selected_moves)
+    # 100% の技を優先的に選ぶ
+    guaranteed_moves = pool.select { |move| move[:rate] == 100 }
+    guaranteed_moves.each do |move|
+      selected_moves << move[:value] unless selected_moves.include?(move[:value])
+      break if selected_moves.size == max_selections
+    end
+  
+    # 100% の技を除いた残りの技
+    available_moves = pool - guaranteed_moves
+  
+    # ランダムに技を追加
+    until selected_moves.size == max_selections
+      selected_move = available_moves.select { |move| rand(100) < move[:rate] }
+      next if selected_move.empty?
+  
+      chosen_move = selected_move.sample
+      unless selected_moves.include?(chosen_move[:value])
+        selected_moves << chosen_move[:value]
+        available_moves.delete(chosen_move) # 重複防止
+      end
+    end
   end
 
   alias swdfm_create_pokemon createPokemon
